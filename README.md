@@ -15,13 +15,3 @@ Task System 2 in bot docs, available with `/docs` command in [@TsWwPlus_Bot](htt
 #### ارسال نظرات و پیشنهادات
 
 برای ارسال نظرت خود به [این بخش](https://github.com/Task-System/InBot-Documentations/issues/new) مراجعه کرده و مورد مد نظر خود را با ما درمیان بگذارید.
-
-#### اعمال تغییرات دلخواه
-
-1. ابتدا اگر در همین سایت ( Github ) ثبت نام نکرده اید، از [این بخش](https://github.com/signup) ثبت نام کرده و یک اکانت بسازید.
-
-2. بعد از ثبت نام و ورود با اکانت کاربری به همین آدرس برگشته و بر روی گزینه Fork، کلیک کنید.
-
-    ![ّFork Button](ScreenShot%5CScreenshot%202022-06-09%20200808.png)
-
-</div>
