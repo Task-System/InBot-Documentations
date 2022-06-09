@@ -15,3 +15,6 @@ Task System 2 in bot docs, available with `/docs` command in [@TsWwPlus_Bot](htt
 #### ارسال نظرات و پیشنهادات
 
 برای ارسال نظرت خود به [این بخش](https://github.com/Task-System/InBot-Documentations/issues/new) مراجعه کرده و مورد مد نظر خود را با ما درمیان بگذارید.
+
+
+</div>
