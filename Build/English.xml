@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<menu code="en" base="en" flag="🇬🇧" name="English"><info>*TsWw Documents* in English 🇬🇧</info><item code="admin_exp" author="Quby">
+    <btntext>Admins Exceptions</btntext>
+    <value>- Sometimes you'll nead to give permission of using bot commands for someone who is not an admin,or you'll need to limit permissions of some administrators. so you have to use admin\_exp mode in these situations.
+
+- How to add a member to admin\_exp mode:
+
+by replying /addexp command on user you can add them to admin\_exp mode and choose their permissions, then simply you can save and exit by clicking on exit button.
+
+✅Also You can change permissions by replying this command on user and save changes or you can remove a user from admin\_exp mode.
+
+
+- How to remove a user from admin\_exp mode:
+
+you can remove a user from admin\_exp mode by replying /delexp command on user or writing user_id above it simply.
+
+- Managing admin\_exp mode:
+
+you can access to users and their permissions by sending /mngexp command and you can remove them all if you need.
+
+
+What exceptions use to:
+→to save game
+→to change personal point
+→to use "tag users" command( /tsping)
+→to use commands about role manager
+→ to send "top lists" command in group
+
+
+⚠️this feature is only for the group owner only (who is saved in task bot as group owner when bot\_admins registered group) and you can add only 7 user to admin\_exp mode.</value>
+  </item></menu>
