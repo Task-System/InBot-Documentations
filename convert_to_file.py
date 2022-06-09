@@ -58,6 +58,7 @@ if __name__ == "__main__":
         # Add the items
         for dirs in tree_dir.iterdir():
             for item_file in dirs.glob("*.xml"):
+                print(f"Adding {item_file} from {tree_dir}")
                 with open(item_file, "r", encoding="utf8") as __f:
                     item_tag = ET.parse(__f).getroot()
                     main_tag.append(item_tag)
