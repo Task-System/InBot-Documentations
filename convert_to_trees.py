@@ -7,7 +7,7 @@ import xml.etree.ElementTree as ET
 
 
 if __name__ == "__main__":
-    built_path = Path(__file__).parent / "_InitialDocs"
+    built_path = Path(__file__).parent / "Build"
     if not built_path.is_dir():
         raise FileNotFoundError(f"{built_path} not found")
 
