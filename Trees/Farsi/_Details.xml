@@ -1,11 +1,4 @@
-<details>
-    <main>
-        <code>fa</code>
-        <base>fa</base>
-        <flag>🇮🇷</flag>
-        <name>فارسی</name>
-    </main>
-    <info>*لیست اسناد مربوط به ربات*:
+<details><main><code>fa</code><base>fa</base><flag>🇮🇷</flag><name>فارسی</name></main><info>*لیست اسناد مربوط به ربات*:
 در این بخش آموزش ها، توضیحات و سایر اسناد مربوط به ربات امتیاز در کنار هم آورده شده اند.
 
 *📌 سنجاق ها*:
@@ -22,5 +15,4 @@
 
 لینک مخزن:
 https://github.com/Task-System/InBot-Documentations
-</info>
-</details>
+</info></details>
