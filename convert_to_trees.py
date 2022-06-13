@@ -57,20 +57,18 @@ if __name__ == "__main__":
                 # check if item code ends with a number (e.g. "test_1")
                 try:
                     ending = int(item_code.split("_")[-1])
-                    item_code = str.join(  # pylint: disable=invalid-name
+                    new_item_code = str.join(  # pylint: disable=invalid-name
                         "_", item_code.split("_")[:-1]
                     )
-                    item_name = cast(str, cast(ET.Element, item.find("btntext")).text)
 
                     # check if item code is already in temp_data
-                    if item_code in temp_data:
-                        temp_data[item_code][item_name] = item
+                    if new_item_code in temp_data:
+                        temp_data[new_item_code][item_code] = item
                     else:
-                        temp_data[item_code] = {item_name: item}
+                        temp_data[new_item_code] = {item_code: item}
 
                 except ValueError:
-                    item_name = cast(str, cast(ET.Element, item.find("btntext")).text)
-                    temp_data[item_code] = {item_name: item}
+                    temp_data[item_code] = {item_code: item}
 
             for data_name, data_items in temp_data.items():
                 data_dir = sub_dir / data_name
@@ -78,7 +76,7 @@ if __name__ == "__main__":
                     data_dir.mkdir()
 
                 for data_item, element in data_items.items():
-                    data_item_path = data_dir / (data_item.replace("\n", "") + ".xml")
+                    data_item_path = data_dir / (data_item + ".xml")
                     root_element = ET.ElementTree(element)
                     root_element.write(
                         data_item_path, encoding="utf8", xml_declaration=False

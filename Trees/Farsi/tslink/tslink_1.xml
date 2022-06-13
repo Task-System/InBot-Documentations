@@ -1,5 +1,5 @@
-<item code="settslink" author="𝐴𝑚𝑖𝑟𝑅𝑒𝑧𝑎">
-    <btntext>ذخیره لینک گروه</btntext>
+<item code="tslink_1" author="𝐴𝑚𝑖𝑟𝑅𝑒𝑧𝑎">
+    <btntext>ذخیره لینک گروه بخش اول</btntext>
     <value>*- ثبت لینک عمومی:*
 برای ثبت لینک گروه خود بصورت عمومی کافیست دستور `/settslink` را ارسال کنید.
 
