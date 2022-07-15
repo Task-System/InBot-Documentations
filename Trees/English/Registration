@@ -1,0 +1,17 @@
+
+<item code="registration" author="Arash">
+    <btntext> Registration in Task </btntext>
+    <value> 
+
+To register in the bot, simply send */registry* command to the group that robot is active in. Then click on registry button and process to the bot private chat.
+
+To change your group also just follow the same steps mentioned above in every other group.
+
+Note that after changing your group you will receive a 2 day restriction for changing group and your point will change to zero also.
+
+*- /GetMeOutOfHere :*  use this command to remove your account details completely from bot databases.
+
+*- /chnlchk :*  use this command you check and receive 2000 channel free points.
+
+</value>
+  </item>
