@@ -1,0 +1,18 @@
+<item code="confirmation" author="A̤̮ʀαՏH">
+    <btntext>Confirming the Games</btntext>
+    <value>
+
+* /confirm :*  Use this command to calculate your game points and save them to our database, but please pay attention to the notes mentioned below:
+
+1- The command must be replied on the latest message of the game.
+
+2- Game must be on original werewolf bot @werewolfbot or beta bot, and the only supported variant is Persian normal for now.
+
+3- No game can be confirmed before a confirmed game.
+
+4- The command must be sent by a group administrator.
+
+* /Lgc : * Use this command to find the last confirmed game in the group if the messages are not cleared.
+
+ </value>
+  </item>
