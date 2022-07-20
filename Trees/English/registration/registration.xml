@@ -1,7 +1,6 @@
-
 <item code="registration" author="Arash">
-    <btntext> Registration in Task </btntext>
-    <value> 
+  <btntext> Registration in Task </btntext>
+  <value> 
 
 To register in the bot, simply send */registry* command to the group that robot is active in. Then click on registry button and process to the bot private chat.
 
@@ -14,4 +13,4 @@ Note that after changing your group you will receive a 2 day restriction for cha
 *- /chnlchk :*  use this command you check and receive 2000 channel free points.
 
 </value>
-  </item>
+</item>

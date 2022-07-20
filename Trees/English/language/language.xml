@@ -1,9 +1,9 @@
 <item code="language" author="A̤̮ʀαՏH">
-    <btntext>*Language*</btntext>
-    <value>
+  <btntext>*Language*</btntext>
+  <value>
 To change the language of bot for yourself send */changelang* command in bot private chat, and to change the group language send this command in your group (admins only).
 
 Please note that the only supported languages by TSWW bot are English and Persian. 
 
 </value>
-  </item>
+</item>

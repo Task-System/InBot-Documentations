@@ -1,10 +1,10 @@
 <item code="Bot Activation" author="Arash">
-    <btntext> *Bot Activation* </btntext>
-    <value> To activate the task bot in your group, first you need to send  an activation request. To do this, the bot must be admin with invite users permission; then send */active* command to your group. Remember that the command must be sent by the group owner.
+  <btntext> *Bot Activation* </btntext>
+  <value> To activate the task bot in your group, first you need to send  an activation request. To do this, the bot must be admin with invite users permission; then send */active* command to your group. Remember that the command must be sent by the group owner.
 
 After sending  the activation request wait for bot admins to come to your group and activate the bot. 
 
 If you failed to send  the activation request by any reason, you can join the support group for our help.
 Here is our support group of task system bot in telegram: @TsWw_Support 
 </value>
-  </item>
+</item>
