@@ -1,5 +1,5 @@
 <item code="language" author="A̤̮ʀαՏH">
-  <btntext>*Language*</btntext>
+  <btntext>Language</btntext>
   <value>
 To change the language of bot for yourself send */changelang* command in bot private chat, and to change the group language send this command in your group (admins only).
 
