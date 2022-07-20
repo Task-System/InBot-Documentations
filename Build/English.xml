@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<menu code="en" base="en" flag="🇬🇧" name="English"><info>*TsWw Documents* in English 🇬🇧</info><item code="admin_exp" author="Quby">
+<menu code="en" base="en" flag="🇬🇧" name="English">
+  <info>*TsWw Documents* in English 🇬🇧</info>
+  <item code="admin_exp" author="Quby">
     <btntext>Admins Exceptions</btntext>
     <value>- Sometimes you'll nead to give permission of using bot commands for someone who is not an admin,or you'll need to limit permissions of some administrators. so you have to use admin\_exp mode in these situations.
 
@@ -28,4 +30,157 @@ What exceptions use to:
 
 
 ⚠️this feature is only for the group owner only (who is saved in task bot as group owner when bot\_admins registered group) and you can add only 7 user to admin\_exp mode.</value>
-  </item></menu>
+  </item>
+  <item code="advertising" author="A̤̮ʀαՏH">
+    <btntext>Advertising</btntext>
+    <value>
+
+TSWW bot can now advertise for you... 
+When the bot receives a message in private chat, it will chain the answer with some random advertisements. Therefore, automatically, no advertisements will be sent to groups or private chats.
+
+To add an advertisement in TSWW ads system or charge your ads expire time, you must process to the Ads Management Group (@TsWw_Ads).
+
+* /myads :* This command will show your saved ads on TSWW with some of its details.
+
+* /tsads :* Use this command to see all available ads on TsWw that haven't expired yet.
+
+</value>
+  </item>
+  <item code="Bot Activation" author="Arash">
+    <btntext>Bot Activation </btntext>
+    <value> To activate the task bot in your group, first you need to send  an activation request. To do this, the bot must be admin with invite users permission; then send */active* command to your group. Remember that the command must be sent by the group owner.
+
+After sending  the activation request wait for bot admins to come to your group and activate the bot. 
+
+If you failed to send  the activation request by any reason, you can join the support group for our help.
+Here is our support group of task system bot in telegram: @TsWw_Support 
+</value>
+  </item>
+  <item code="confirmation" author="A̤̮ʀαՏH">
+    <btntext>Confirming the Games</btntext>
+    <value>
+
+* /confirm :*  Use this command to calculate your game points and save them to our database, but please pay attention to the notes mentioned below:
+
+1- The command must be replied on the latest message of the game.
+
+2- Game must be on original werewolf bot @werewolfbot or beta bot, and the only supported variant is Persian normal for now.
+
+3- No game can be confirmed before a confirmed game.
+
+4- The command must be sent by a group administrator.
+
+* /Lgc : * Use this command to find the last confirmed game in the group if the messages are not cleared.
+
+ </value>
+  </item>
+  <item code="language" author="A̤̮ʀαՏH">
+    <btntext>Language</btntext>
+    <value>
+To change the language of bot for yourself send */changelang* command in bot private chat, and to change the group language send this command in your group (admins only).
+
+Please note that the only supported languages by TSWW bot are English and Persian. 
+
+</value>
+  </item>
+  <item code="Lists of TSWW bot" author="A̤̮ʀαՏH">
+    <btntext>Lists of TSWW bot</btntext>
+    <value>
+
+
+* /topgroups :* Use this command to receive a list of groups on TsWw System ordered by their points in the current season of TSWW, average number of players in a game, average time of the games and the numbers of registered players.
+
+* /TopPlayers :* Use this command to receive a list of top ten registered players on TSWW current season.
+
+* /bests :* By this command you get a list of top players of your group.  This command must be sent by one of the group administrators. 
+
+* /seasons :* Use this command to check saved information about past seasons on TSWW.
+
+</value>
+  </item>
+  <item code="Personal Point" author="A̤̮ʀαՏH">
+    <btntext>Personal Point</btntext>
+    <value>
+
+By using personal points you can simply give your group members some points or take back their points. This system is useful for challenges held in your group، encouragement of active members and admins, etc.
+
+Personal pointing comprises features mentioned below:
+
+1- increase or decrease users pp by group admins
+
+2- reset all group's players pp
+
+3- user points that are calculated from /confirm command.
+
+4- Show a list of top players ordered by their pp.
+
+*NOTE:* Naturally changing personal points will not affect users' or groups' original points.
+
+*List of commands for using personal pointing system:*
+
+* /pmenu :* Changes configurations such as using Confirmed points or all admins have access to change pps.
+* /ppoint :* Receives user's ppoint. The command can also be replied on players. 
+* /pbests :* Shows a list of top players of the group ordered by their ppoints. 
+* /cup X  or +X or -X :* Changes, increases or decreases user ppoint. 
+All 3 mentioned commands must be replied on a player. Also, you can use the command by telegram usernames like this: /cup @username X
+* /reset :* Resets all players' ppoints in a group to zero.
+
+To activate personal pointing in your group please process to the support group (@TsWw_Support) .
+
+
+</value>
+  </item>
+  <item code="Pinging Members" author="A̤̮ʀαՏH">
+    <btntext>Pinging Members</btntext>
+    <value> Here is the list of commands used for pinging players in a group. Note that pinging is available every 20 minutes in your group.
+ 
+
+* /tsping (count) :* Use this command to ping all registered members of task system in your group, remember that the command must be sent by group administrators. 
+
+* /pingstop :* If you use this command you will no longer get pinged in any group by TsWwplus.
+
+* /pingstart :* If you use this command you will be pinged in groups again.
+
+ </value>
+  </item>
+  <item code="registration" author="Arash">
+    <btntext> Registration in Task </btntext>
+    <value> 
+
+To register in the bot, simply send */registry* command to the group that robot is active in. Then click on registry button and process to the bot private chat.
+
+To change your group also just follow the same steps mentioned above in every other group.
+
+Note that after changing your group you will receive a 2 day restriction for changing group and your point will change to zero also.
+
+*- /GetMeOutOfHere :*  use this command to remove your account details completely from bot databases.
+
+*- /chnlchk :*  use this command you check and receive 2000 channel free points.
+
+</value>
+  </item>
+  <item code="States" author="A̤̮ʀαՏH">
+    <btntext>States</btntext>
+    <value> Here is a list of commands of task system that you can check different states with:
+
+* /mystate :* Shows your personal state on TsWwPlus bot including your group, your point and your ranks. 
+
+* /mygroup :* Shows the group that the command is sent in. 
+
+* /botstate :* Shows you the robot static state.
+
+* /wwstats :* Shows your state on original werewolf bot.
+
+* /wwkills :* Shows the players you killed most on original werewolf bot. 
+
+* /wwkillby :* Shows the players who killed you most on original werewolf bot. 
+
+* /wwdeaths :* Shows top 5 ways you have died most on original werewolf bot. 
+
+* /wwachs :* Shows a list of achievements you have gained and also a list of those you have not yet fulfilled. 
+
+* /tsacheck :* check your restrictions state on tsa, the robot guardian System.
+
+ </value>
+  </item>
+</menu>
