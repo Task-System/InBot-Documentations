@@ -1,0 +1,15 @@
+<item code="advertising" author="A̤̮ʀαՏH">
+  <btntext>Advertising</btntext>
+  <value>
+
+TSWW bot can now advertise for you... 
+When the bot receives a message in private chat, it will chain the answer with some random advertisements. Therefore, automatically, no advertisements will be sent to groups or private chats.
+
+To add an advertisement in TSWW ads system or charge your ads expire time, you must process to the Ads Management Group (@TsWw_Ads).
+
+* /myads :* This command will show your saved ads on TSWW with some of its details.
+
+* /tsads :* Use this command to see all available ads on TsWw that haven't expired yet.
+
+</value>
+</item>

@@ -1,0 +1,15 @@
+<item code="Lists of TSWW bot" author="A̤̮ʀαՏH">
+  <btntext>Lists of TSWW bot</btntext>
+  <value>
+
+
+* /topgroups :* Use this command to receive a list of groups on TsWw System ordered by their points in the current season of TSWW, average number of players in a game, average time of the games and the numbers of registered players.
+
+* /TopPlayers :* Use this command to receive a list of top ten registered players on TSWW current season.
+
+* /bests :* By this command you get a list of top players of your group.  This command must be sent by one of the group administrators. 
+
+* /seasons :* Use this command to check saved information about past seasons on TSWW.
+
+</value>
+</item>

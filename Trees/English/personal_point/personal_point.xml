@@ -1,0 +1,32 @@
+<item code="Personal Point" author="A̤̮ʀαՏH">
+  <btntext>Personal Point</btntext>
+  <value>
+
+By using personal points you can simply give your group members some points or take back their points. This system is useful for challenges held in your group، encouragement of active members and admins, etc.
+
+Personal pointing comprises features mentioned below:
+
+1- increase or decrease users pp by group admins
+
+2- reset all group's players pp
+
+3- user points that are calculated from /confirm command.
+
+4- Show a list of top players ordered by their pp.
+
+*NOTE:* Naturally changing personal points will not affect users' or groups' original points.
+
+*List of commands for using personal pointing system:*
+
+* /pmenu :* Changes configurations such as using Confirmed points or all admins have access to change pps.
+* /ppoint :* Receives user's ppoint. The command can also be replied on players. 
+* /pbests :* Shows a list of top players of the group ordered by their ppoints. 
+* /cup X  or +X or -X :* Changes, increases or decreases user ppoint. 
+All 3 mentioned commands must be replied on a player. Also, you can use the command by telegram usernames like this: /cup @username X
+* /reset :* Resets all players' ppoints in a group to zero.
+
+To activate personal pointing in your group please process to the support group (@TsWw_Support) .
+
+
+</value>
+</item>

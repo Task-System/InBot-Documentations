@@ -1,0 +1,13 @@
+<item code="Pinging Members" author="A̤̮ʀαՏH">
+    <btntext>Pinging Members</btntext>
+    <value> Here is the list of commands used for pinging players in a group. Note that pinging is available every 20 minutes in your group.
+ 
+
+* /tsping (count) :* Use this command to ping all registered members of task system in your group, remember that the command must be sent by group administrators. 
+
+* /pingstop :* If you use this command you will no longer get pinged in any group by TsWwplus.
+
+* /pingstart :* If you use this command you will be pinged in groups again.
+
+ </value>
+</item>
