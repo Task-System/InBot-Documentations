@@ -1,0 +1,16 @@
+<item code="daily_gift" author="Mαrψ">
+  <btntext>*Daily Gift*</btntext>
+  <value>
+
+Every 12 hours, All registered players in Task can earn free points as a daily gift from the bot by using this command in the bot:
+/DailyGift@TsWwPlus_Bot
+/DailyGift
+
+By sending the command, a multiple answer question is asked in the bot; after answering the question correctly, a dice will be thrown by the robot. Based on the number shown by the dice, between 100 to 600 points are added to the player's points in Task. 
+If the dice shows number 6, another dice will be thrown as a reward. 
+If you are lucky and the second dice shows 6 again, a dart is thrown by the bot. The maximum point, you can get by the dart is 300 points. 
+
+So, as a daily gift by the TSWW you can collect from 100 to 1500 points twice a day.
+
+</value>
+</item>
