@@ -1,0 +1,24 @@
+<item code="confirm_info_2" author="Mαrψ">
+  <btntext>*The First Message*</btntext>
+  <value> In the first message, under the GIF sent about the winning team,  the following information is displayed in order:
+
+*1-* The duration of the game. 
+*2-* The winning team. 
+*3-* The number of winning players. 
+*4-* Information about the most points earned in the game. 
+*5-* The diehard player who is the last dead player who losed the game. 
+*6-* Points earned by the group from this game.
+
+
+And the way number 4 is calculated is as mentioned below: 
+
+_ Player name and his score. 
+_ Role weight of this player 
+_ Doubling the raw point due to being alive at the end of the game
+_ Adding 30% of raw point due to winning
+_ Adding 10% of the raw point as a survival ratio
+_ Group score, which is counted by the difference between the role weight of the winning and the losing teams 
+_ Doubling the points due to being in the winning team
+
+</value>
+</item>
