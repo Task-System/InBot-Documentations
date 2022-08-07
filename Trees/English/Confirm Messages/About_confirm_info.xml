@@ -1,4 +1,4 @@
-<item code="confirm_info_1" author="Mαrψ">
+<item code="confirm_info" author="Mαrψ">
   <btntext>*Confirmation Messages*</btntext>
   <value> When you confirm a game, three messages are sent in the group. The first message shows a summary of the finished game information. The second message announces the points of the players individually and in detail, and the third message contains other information about the game that is not included in the previous two messages. 
 In addition, by clicking on the button "view your statistics in the game" or by typing the command /mylatest in the robot's private chat, you can view the information about your last game, including time, role and score in the game.
