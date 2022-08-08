@@ -9,5 +9,9 @@
 
 * /pingstart :* If you use this command you will be pinged in groups again.
 
+* /pingname :* Use this command if you want to change your name when tagging. For example :/pingname name
+ 
+* /pingrmv :* Use this command to avoid Task tagging a member. Only admins can use this command by replying someone, or using her/his username or number ID. 
+
  </value>
 </item>
