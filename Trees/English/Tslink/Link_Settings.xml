@@ -1,0 +1,21 @@
+<item code="Link_Settings" author="Mαrψ">
+  <btntext>*Tslink Settings*</btntext>
+  <value> 
+
+In order to change the settings of the group link, the creator can use a command which is described below. 
+
+* /linkoptions : *
+This command can only be used by the creator of the group. 
+After you set your group link in the Task bot, by using the /linkoptions command you access to two modes: 
+
+The first mode is to make the link *private*. If you chose the link to be private, the link of your group will not be shown neither in the lists nor by using /mygroup  command. 
+To activate this mode, just    change the button ❌ to ✅.
+
+In the second mode, you can change your group link to *Join Reques* .
+That means, if someone wants to join your group through the Task link, he/she should send a join request and this request can only be approved by the group admins so that he/she can join the group.
+To activate this mode, just    change the button ❌ to ✅.
+
+If your group is in private mode, you can only remove the group from this mode, but if your group is not private, you can change the group to *private* mode or a *request to join* mode.
+
+</value>
+</item>
