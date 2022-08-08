@@ -1,0 +1,24 @@
+<item code="saving_roles_1" author="Mαrψ">
+  <btntext>*Saving Roles Part 1*</btntext>
+  <value> 
+*Saving Roles by Task*
+
+By using the ability of Task in saving roles, you can easily manage the game and remember the roles of the players in a game. 
+
+To start, just reply the /new command on the first list of players after the game started.
+Even if you are in the middle of a game, you can reply the /clup command on the last list of players. 
+
+Then, the bot will send a list of alive and dead players to receive roles. The first list will be updated as roles are added or players are dead; Task will pin the list if it has access to pin messages.
+
+Now players can save their roles by using /ts command and putting the desired text. for example:
+/ts ww
+This command will register the player's role as "werewolf 🐺". This command has a default description for each role and if you enter it instead of the role, it will show the corresponding role. For example,  ww, wolf, werewolf, etc. will all be saved as werewolf 🐺.
+
+To update the list of dead players of the first list, reply the /stsup command on the last list of players of @werewolfbot. If you want Task to send the list of roles, you can use  the /tsup command instead of /stsup. 
+ 
+During the game, you can use the /list command to get the latest list of roles.
+
+At the end of the game, you can clear the list of players and the pinned message using the /clear command.
+
+</value>
+</item>
