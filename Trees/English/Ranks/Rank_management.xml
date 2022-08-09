@@ -1,0 +1,31 @@
+<item code="rank_management" author="Mαrψ">
+  <btntext>*Rank Management*</btntext>
+  <value> 
+As mentioned in other documents about ranks,  by sending /myranks in *Task private chat*, the menu of your ranks will be opened and the number of keys you own will be shown, too.
+
+*The use of each glass button in /myranks menu:* 
+
+_ By touching *🎭 A Tricky Spy*, if you have 3 keys, you will get this rank.
+
+_ By touching *🍩 I'll Show You Everything*, you will get this rank if you have one key.
+ 
+_ By touching *📿 The Humble Guy*, if you have 2 keys, you will get this rank.
+
+_ If you participate in Task's summer challenges and get the summer fruits rank, you can set your favorite fruit as the rank or change the selected fruit by touching *🍓Summer Fruits🍌* at anytime.
+
+_ In the *👩‍🎓Student Rank👨‍🎓* menu, if you have earned the student rank by reading and scoring 15 articles from the /docs menu of the robot, you can select or change your emoji rank according to your gender and skin color from the following emojis:
+👩🏻‍🎓👩🏼‍🎓👩🏽‍🎓👩🏾‍🎓👩🏿‍🎓
+👨🏻‍🎓👨🏼‍🎓👨🏽‍🎓👨🏾‍🎓👨🏿‍🎓
+🧑🏻‍🎓🧑🏼‍🎓🧑🏽‍🎓🧑🏾‍🎓🧑🏿‍🎓
+
+_ By touching *🔨Remove a Rank*, you can delete the ranks you got by keys, but remember that your keys will not be returned to your account after it!
+
+_ By touching *🎨Change Order*, you can change the order of your ranks and you can also choose which ranks will be displayed and which ranks will be hidden.
+For this purpose, you can use the ⇡⇣ keys to move the ⌘ cursor up and down. When the cursor is in front of the desired rank, you can change the order of the rank by using the ⟰⟱ keys. Also, with the ⊂ ⊛ ⊃ key, you can hide or turn off that rank as long as you want. ⊷ is a sign that the rank is on and ⊶ is a sign that the rank is off.
+After applying the changes, the changes are saved by pressing the セーブ  button.
+
+If you get a new rank, send the following command to the private chat of Task to display your new rank:
+/myranks showcount 20
+
+</value>
+</item>
