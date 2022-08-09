@@ -1,0 +1,50 @@
+<item code="types_of_ranks" author="Mαrψ">
+  <btntext>*All Ranks*</btntext>
+  <value> 
+Types of ranks 
+
+*Ranks available by financial support:*
+
+🍩: The werewolf stats of players who have this rank, is accessible by everyone via reply by Task commands.  (requires 1 key🔑)
+📿: By this rank the name of players will not be shown in any of Task lists. Instead of the name it is written *"The Humble Guy" *. (requires 2 keys🔑)
+🎭: The statistics of players with this rank cannot be reached by others. (requires 3 keys🔑)
+
+Send /myranks command in the bot to get the ranks which need key(s). One free key in given to all players as a gift. To buy each key you should donate 100k Rials to Task. 
+💰: If you financially support the task collection, at least 100k Rials you will receive this rank.
+🧸: If you register an ad for one day in the bot, you will receive this rank. You should pay 20k Rials for a one day advertisement. 
+
+*Managerial Ranks*
+
+🎀: Special Rank only for the owner of the Task !
+🌸: Special rank for administrators and assistants of achievement group who  are able to manage and hunt achievements of @werewolfbot for players.
+🌙: Special rank for the admins of Task and also for groups under Task management.  
+🎈: This rank is given by Task admins to different players who are friends of admins. 
+✨: This rank is given to those who have cooperated in managing the challenges hold by Task management .
+
+*Ranks obtained by playing werewolf :*
+
+🏆: This rank belongs to the top group of each Task's season based on points. 
+🏅: This rank belongs to the top player of the groups that gain more than 2 million points at the end of the season. 
+🥇 : This one is for the top ranked player in the list of top players of the bot at the end of each season. 
+🥈: This rank belongs to the second player among all players of Task based on the points earned. 
+🥉: This rank belongs to the third player among all players of Task based on the points earned.  
+
+*Skill ranks:*
+✍: If you can provide a new document that gives explanations about the abilities of Task and how to use them, you will receive this rank.
+💻: This rank is for those who are known as programmers by the owner of Task. 
+👩‍🎓🧑‍🎓: This rank belongs to players who read and vote at least 15 documents in the /docs menu. 
+💕: If you improve the performance of the bot and help adding new abilities to Task system, by your ideas, suggestions, criticism, and etc. you will receive this rank. 
+
+*Challenge ranks:*
+🍉🍇🍒🍑🍓🍐🍍🍌🥑🥥: Whenever you participate in the summer challenge hold by Task management, based on the rules announced in the challenge, you will receive this rank as a reward. Later you can use /myranks command to choose your favourite fruit. 
+🍟🍕🍿🍺🍰🧀: If you participate in the birthday ceremony that is announced in the Task system channel, you will receive this rank.
+🍁: If you participate in the autumn challenge, based on the rules announced in the challenge, you will receive this rank.
+⚜: If you are recognized as a best player in special bot challenges, you will receive this rank.
+🤱: This rank is for special Mother's Day challenge.
+🐯: This rank was for the challenge held for Nowrouz of 1401 (Year of the Tiger).
+
+⚠️ All challenges are announced in the Task channel (@TsWw_Channel).
+
+
+</value>
+</item>
