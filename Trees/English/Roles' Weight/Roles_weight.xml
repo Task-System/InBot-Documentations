@@ -2,6 +2,9 @@
   <btntext>*Roles' Weight in Task*</btntext>
   <value> 
 
+The weight of the roles indicates the strength of each role.
+Based on these weights,  Task  gives every role a basic point which is equal to its weight. 
+
 *- Villagers' Team:*
 
 Lowly Villager 🧑: 1
@@ -73,6 +76,7 @@ Cult: 10
 (+1) for each player who becomes a cult. 
 
 *- Task exceptions:*
+Due to not having negative points in Task, some exceptions have been considered for scoring.
 Clumsy Guy🤕: 1
 Thief 😈 : 4
 Chemist 🧑🏻‍🔬: 1
