@@ -1,5 +1,5 @@
-<item code="Cloudy Sky" author="Mαrψ">
-  <btntext>*Cloudy Sky*</btntext>
+<item code="cloudy_sky" author="Mαrψ">
+  <btntext>Cloudy Sky</btntext>
   <value> There may be sometimes that the TSWW bot is not responding to orders. The question is what to do when the bot is offline. 
 
 The first thing to do is to demote Task from  being an admin. 
