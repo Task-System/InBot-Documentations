@@ -1,5 +1,5 @@
 <item code="seasons" author="Mαrψ">
-  <btntext>*Task Seasons*</btntext>
+  <btntext>Task Seasons</btntext>
   <value> 
 In order to make the competitions more attractive and fair, the scores of users and groups reset to zero every three months.
 Each season has a specific name and based on the points gathered in each season, a top group and 3 top players are chosen and will be saved in Task. You can see the list and information of completed seasons of Task by /seasons  command. Also, the points of top 3 players and the top group, the number of total games played in all the groups that use Task and date and time that the season ended are mentioned too.
