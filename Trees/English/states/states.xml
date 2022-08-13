@@ -1,24 +1,24 @@
-<item code="States" author="A̤̮ʀαՏH">
+<item code="states" author="A̤̮ʀαՏH">
     <btntext>States</btntext>
     <value> Here is a list of commands of task system that you can check different states with:
 
-* /mystate :* Shows your personal state on TsWwPlus bot including your group, your point and your ranks. 
+` /mystate :` Shows your personal state on TsWwPlus bot including your group, your point and your ranks. 
 
-* /mygroup :* Shows the group that the command is sent in. 
+` /mygroup :` Shows the group that the command is sent in. 
 
-* /botstate :* Shows you the robot static state.
+` /botstate :` Shows you the robot static state.
 
-* /wwstats :* Shows your state on original werewolf bot.
+` /wwstats :` Shows your state on original werewolf bot.
 
-* /wwkills :* Shows the players you killed most on original werewolf bot. 
+` /wwkills :` Shows the players you killed most on original werewolf bot. 
 
-* /wwkillby :* Shows the players who killed you most on original werewolf bot. 
+` /wwkillby :` Shows the players who killed you most on original werewolf bot. 
 
-* /wwdeaths :* Shows top 5 ways you have died most on original werewolf bot. 
+` /wwdeaths :` Shows top 5 ways you have died most on original werewolf bot. 
 
-* /wwachs :* Shows a list of achievements you have gained and also a list of those you have not yet fulfilled. 
+` /wwachs :` Shows a list of achievements you have gained and also a list of those you have not yet fulfilled. 
 
-* /tsacheck :* check your restrictions state on tsa, the robot guardian System.
+` /tsacheck :` check your restrictions state on tsa, the robot guardian System.
 
  </value>
-  </item>
+</item>

@@ -1,0 +1,21 @@
+<item code="saving_roles_2" author="Mαrψ">
+  <btntext>Saving Roles Part 2</btntext>
+  <value> 
+In addition to the commands in the previous article, there are some other commands that help you in saving roles which are explained  in the following: 
+
+_ Get the player's saved role by replying the /role command on a player.
+
+_ Use the /tswho command to see which player has saved a certain role. Example
+/tswho wolf
+(There is no need to enter the exact letters of the role, for example, the word "wolf" is enough for the role of a werewolf)
+
+_ Remove the roles of players who have used inappropriate or promotional words: (only by admins) 
+/noshit group ad
+
+_ Use the /eq command to get a list to balance the votes based on the last list of saved roles.
+
+_ Set a text or the name of a player for *voting*  by the  /slv command (by replying or in front of the command). This text can be received at any time using /glv command. (only by admins)
+
+
+</value>
+</item>

@@ -1,0 +1,17 @@
+<item code="cloudy_sky" author="Mαrψ">
+  <btntext>Cloudy Sky</btntext>
+  <value> There may be sometimes that the TSWW bot is not responding to orders. The question is what to do when the bot is offline. 
+
+The first thing to do is to demote Task from  being an admin. 
+Then, turn off the helper robots that automatically register the games because if the bot gets online they start confirming automatically and you may lose the points of the games while Task was offline.
+
+When task gets online again, promote the bot to admin once more and start confirming the previous games.
+
+⚠️ Remember to use the /lgc command to be notified of the last registered game. 
+Once a game is confirmed, you cannot confirm the previous games. So confirm the games one by one by order. 
+
+Finally, we apologize for the cloudy sky that disappeared  our moon and thank you for your patience. 🌙
+
+
+</value>
+</item>
