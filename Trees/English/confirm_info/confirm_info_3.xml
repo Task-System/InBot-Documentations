@@ -1,0 +1,28 @@
+<item code="confirm_info_3" author="Mαrψ">
+  <btntext>2nd Confirm Message</btntext>
+  <value> 
+
+*Meaning of the emojis used in the 2nd confirm_info message*
+
+If the player has registered in your group with the /registry command, the ✅ emoji can be seen next to the player's name. 
+If the player is registered in a group other than yours, the  ⚠️ emoji will be seen next to the player's name. 
+If the player is not registered in any group, the ❌ emoji will be seen next to his name. 
+If a player leaves the group or deletes his account before the end of the game, the  🌭  emoji will be seen next to his name at the end of the game. 
+
+* ⚰:* Indicates dead players during the game.
+*🌻:* Indicates alive players at the end of the game. 
+*✌️🏻:* This emoji is the sign of the winning team.
+* 🍆:* It is the symbol of the losing teams in the game. 
+* 🤠:* It represents the villagers' team at the end of the game. 
+* 🐺:* This is a symbol of the wolf team at the end of the game.
+* 👥:* This is the symbol of the cult team. 
+* 🔥:* This emoji is a symbol of arsonist. 
+* 👺:* It is the symbol of the tanner who wins the game if executed. 
+* 🔪:* This emoji is the symbol of the serial killer.
+
+The 💤 emoji indicates the players who have reached the 10-hour daily limitation for playing games confirmed by TSWW. After the end of the time limitation, players can use their saved time if they have any which is maximum 12 hours. 
+The ⏳ emoji also indicates players who have not reached the daily time limitation at the end of the game.
+
+
+</value>
+</item>

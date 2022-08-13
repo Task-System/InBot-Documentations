@@ -1,0 +1,16 @@
+<item code="time_limitation_1" author="Mαrψ">
+  <btntext>Time Limitation</btntext>
+  <value> 
+A time limitation for playing has been added to Task to make the competition. The total net time of each player's games that are confirmed must be less than 10 hours a day. After this time, no points will be added to the player (and to his/her group)!
+
+_ Note that total game time will be calculated, not the time you were killed/died in the game!
+
+_ Playing in any group, whether registered in the group or not, will reduce your time.
+
+In the  confirm message at the end of the game, the players whose time is over are shown with the 💤 emoji and the other players who have not reached the limitation are shown with the ⏳ emoji.
+
+_ Note that in any case, the players' points will be displayed in the confirm message, but will not be applied for players with 💤.
+
+
+</value>
+</item>
