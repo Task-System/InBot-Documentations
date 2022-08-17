@@ -3,18 +3,18 @@
   <value> 
 *Setting a public link:*
 
-To register your group link as public, just send the /settslink command.
+To register your group link as public, just send the `/settslink` command.
 
 ⚠️ Note that in order to set and confirm the link, Task must have access to invite members.
 
 *Getting the group's link:*
 
-To get the link of your group, send the command /mygroup in your group.
+To get the link of your group, send the command `/mygroup` in your group.
 
 *Setting Private link:* 
 
 To set the group link as private, send the following command:
-/settslink nolink
+`/settslink` nolink
 
 If your group link is set as public, it will be used in all lists related to groups in Task bot. 
 
