@@ -1,984 +1,793 @@
 <?xml version='1.0' encoding='utf-8'?>
-<menu code="en" base="en" flag="🇬🇧" name="English">
-  <info>*TsWw Documents* in English 🇬🇧</info>
-  <item code="admin_exp" author="Quby">
+<menu code="en" base="en" flag="🇬🇧" name="English"><info>*TsWw Documents* in English 🇬🇧</info><item code="admin_exp" author="Quby">
     <btntext>Admins Exceptions</btntext>
-    <value>- Sometimes you'll nead to give permission of using bot commands for someone who is not
-      an admin,or you'll need to limit permissions of some administrators. so you have to use
-      admin\_exp mode in these situations.
+    <value>- Sometimes you'll nead to give permission of using bot commands for someone who is not an admin,or you'll need to limit permissions of some administrators. so you have to use admin\_exp mode in these situations.
 
-      - How to add a member to admin\_exp mode:
+- How to add a member to admin\_exp mode:
 
-      by replying /addexp command on user you can add them to admin\_exp mode and choose their
-      permissions, then simply you can save and exit by clicking on exit button.
+by replying /addexp command on user you can add them to admin\_exp mode and choose their permissions, then simply you can save and exit by clicking on exit button.
 
-      ✅Also You can change permissions by replying this command on user and save changes or you can
-      remove a user from admin\_exp mode.
+✅Also You can change permissions by replying this command on user and save changes or you can remove a user from admin\_exp mode.
 
 
-      - How to remove a user from admin\_exp mode:
+- How to remove a user from admin\_exp mode:
 
-      you can remove a user from admin\_exp mode by replying /delexp command on user or writing
-      user_id above it simply.
+you can remove a user from admin\_exp mode by replying /delexp command on user or writing user_id above it simply.
 
-      - Managing admin\_exp mode:
+- Managing admin\_exp mode:
 
-      you can access to users and their permissions by sending /mngexp command and you can remove
-      them all if you need.
+you can access to users and their permissions by sending /mngexp command and you can remove them all if you need.
 
 
-      What exceptions use to:
-      →to save game
-      →to change personal point
-      →to use "tag users" command( /tsping)
-      →to use commands about role manager
-      → to send "top lists" command in group
+What exceptions use to:
+→to save game
+→to change personal point
+→to use "tag users" command( /tsping)
+→to use commands about role manager
+→ to send "top lists" command in group
 
 
-      ⚠️this feature is only for the group owner only (who is saved in task bot as group owner when
-      bot\_admins registered group) and you can add only 7 user to admin\_exp mode.</value>
-  </item>
-  <item code="advertising" author="A̤̮ʀαՏH">
-    <btntext>Advertising</btntext>
-    <value>
+⚠️this feature is only for the group owner only (who is saved in task bot as group owner when bot\_admins registered group) and you can add only 7 user to admin\_exp mode.</value>
+  </item><item code="advertising" author="A̤̮ʀαՏH">
+  <btntext>Advertising</btntext>
+  <value>
 
-      TSWW bot can now advertise for you...
-      When the bot receives a message in private chat, it will chain the answer with some random
-      advertisements. Therefore, automatically, no advertisements will be sent to groups or private
-      chats.
+TSWW bot can now advertise for you... 
+When the bot receives a message in private chat, it will chain the answer with some random advertisements. Therefore, automatically, no advertisements will be sent to groups or private chats.
 
-      To add an advertisement in TSWW ads system or charge your ads expire time, you must process to
-      the Ads Management Group (@TsWw_Ads).
+To add an advertisement in TSWW ads system or charge your ads expire time, you must process to the Ads Management Group (@TsWw_Ads).
 
-      * /myads :* This command will show your saved ads on TSWW with some of its details.
+* /myads :* This command will show your saved ads on TSWW with some of its details.
 
-      * /tsads :* Use this command to see all available ads on TsWw that haven't expired yet.
+* /tsads :* Use this command to see all available ads on TsWw that haven't expired yet.
 
-    </value>
-  </item>
-  <item code="bot_activation" author="Arash">
-    <btntext>Bot Activation </btntext>
-    <value> To activate the task bot in your group, first you need to send an activation request. To
-      do this, the bot must be admin with invite users permission; then send */active* command to
-      your group. Remember that the command must be sent by the group owner.
+</value>
+</item><item code="bot_activation" author="Arash">
+  <btntext>Bot Activation </btntext>
+  <value> To activate the task bot in your group, first you need to send  an activation request. To do this, the bot must be admin with invite users permission; then send */active* command to your group. Remember that the command must be sent by the group owner.
 
-      After sending the activation request wait for bot admins to come to your group and activate
-      the bot.
+After sending  the activation request wait for bot admins to come to your group and activate the bot. 
 
-      If you failed to send the activation request by any reason, you can join the support group for
-      our help.
-      Here is our support group of task system bot in telegram: @TsWw_Support
-    </value>
-  </item>
-  <item code="cloudy_sky" author="Mαrψ">
-    <btntext>Cloudy Sky</btntext>
-    <value> There may be sometimes that the TSWW bot is not responding to orders. The question is
-      what to do when the bot is offline.
+If you failed to send  the activation request by any reason, you can join the support group for our help.
+Here is our support group of task system bot in telegram: @TsWw_Support 
+</value>
+</item><item code="cloudy_sky" author="Mαrψ">
+  <btntext>Cloudy Sky</btntext>
+  <value> There may be sometimes that the TSWW bot is not responding to orders. The question is what to do when the bot is offline. 
 
-      The first thing to do is to demote Task from being an admin.
-      Then, turn off the helper robots that automatically register the games because if the bot gets
-      online they start confirming automatically and you may lose the points of the games while Task
-      was offline.
+The first thing to do is to demote Task from  being an admin. 
+Then, turn off the helper robots that automatically register the games because if the bot gets online they start confirming automatically and you may lose the points of the games while Task was offline.
 
-      When task gets online again, promote the bot to admin once more and start confirming the
-      previous games.
+When task gets online again, promote the bot to admin once more and start confirming the previous games.
 
-      ⚠️ Remember to use the /lgc command to be notified of the last registered game.
-      Once a game is confirmed, you cannot confirm the previous games. So confirm the games one by
-      one by order.
+⚠️ Remember to use the /lgc command to be notified of the last registered game. 
+Once a game is confirmed, you cannot confirm the previous games. So confirm the games one by one by order. 
 
-      Finally, we apologize for the cloudy sky that disappeared our moon and thank you for your
-      patience. 🌙
+Finally, we apologize for the cloudy sky that disappeared  our moon and thank you for your patience. 🌙
 
 
-    </value>
-  </item>
-  <item code="confirmation" author="A̤̮ʀαՏH">
+</value>
+</item><item code="confirmation" author="A̤̮ʀαՏH">
     <btntext>Confirming the Games</btntext>
     <value>
 
-      * /confirm :* Use this command to calculate your game points and save them to our database,
-      but please pay attention to the notes mentioned below:
-
-      1- The command must be replied on the latest message of the game.
-
-      2- Game must be on original werewolf bot @werewolfbot or beta bot, and the only supported
-      variant is Persian normal for now.
-
-      3- No game can be confirmed before a confirmed game.
-
-      4- The command must be sent by a group administrator.
-
-      * /Lgc : * Use this command to find the last confirmed game in the group if the messages are
-      not cleared.
-
-    </value>
-  </item>
-  <item code="confirm_info_1" author="Mαrψ">
-    <btntext>Confirmation Messages</btntext>
-    <value> When you confirm a game, three messages are sent in the group. The first message shows a
-      summary of the finished game information. The second message announces the points of the
-      players individually and in detail, and the third message contains other information about the
-      game that is not included in the previous two messages.
-      In addition, by clicking on the button "view your statistics in the game" or by typing the
-      command /mylatest in the robot's private chat, you can view the information about your last
-      game, including time, role and score in the game.
-
-    </value>
-  </item>
-  <item code="confirm_info_2" author="Mαrψ">
-    <btntext>The First Message</btntext>
-    <value> In the first message, under the GIF sent about the winning team, the following
-      information is displayed in order:
-
-      *1-* The duration of the game.
-      *2-* The winning team.
-      *3-* The number of winning players.
-      *4-* Information about the most points earned in the game.
-      *5-* The diehard player who is the last dead player who losed the game.
-      *6-* Points earned by the group from this game.
-
-
-      And the way number 4 is calculated is as mentioned below:
-
-      _ Player name and his score.
-      _ Role weight of this player
-      _ Doubling the raw point due to being alive at the end of the game
-      _ Adding 30% of raw point due to winning
-      _ Adding 10% of the raw point as a survival ratio
-      _ Group score, which is counted by the difference between the role weight of the winning and
-      the losing teams
-      _ Doubling the points due to being in the winning team
-
-    </value>
-  </item>
-  <item code="confirm_info_3" author="Mαrψ">
-    <btntext>2nd Confirm Message</btntext>
-    <value>
-
-      *Meaning of the emojis used in the 2nd confirm_info message*
-
-      If the player has registered in your group with the /registry command, the ✅ emoji can be seen
-      next to the player's name.
-      If the player is registered in a group other than yours, the ⚠️ emoji will be seen next to the
-      player's name.
-      If the player is not registered in any group, the ❌ emoji will be seen next to his name.
-      If a player leaves the group or deletes his account before the end of the game, the 🌭 emoji
-      will be seen next to his name at the end of the game.
-
-      * ⚰:* Indicates dead players during the game.
-      *🌻:* Indicates alive players at the end of the game.
-      *✌️🏻:* This emoji is the sign of the winning team.
-      * 🍆:* It is the symbol of the losing teams in the game.
-      * 🤠:* It represents the villagers' team at the end of the game.
-      * 🐺:* This is a symbol of the wolf team at the end of the game.
-      * 👥:* This is the symbol of the cult team.
-      * 🔥:* This emoji is a symbol of arsonist.
-      * 👺:* It is the symbol of the tanner who wins the game if executed.
-      * 🔪:* This emoji is the symbol of the serial killer.
-
-      The 💤 emoji indicates the players who have reached the 10-hour daily limitation for playing
-      games confirmed by TSWW. After the end of the time limitation, players can use their saved
-      time if they have any which is maximum 12 hours.
-      The ⏳ emoji also indicates players who have not reached the daily time limitation at the end
-      of the game.
-
-
-    </value>
-  </item>
-  <item code="confirm_info_4" author="Mαrψ">
-    <btntext>The Last Confirm_info Message</btntext>
-    <value>
-      The last message after confirming the game includes the following information:
-
-      _ The number of smited players in the game.
-      _ The duration of the game compared to the normal condition based on the number of players.
-      _ Enabled/disabled adding personal points in the group.
-      _ The number of registered players of the group in the game and their percentage.
-      _ Game moods, including the main mood (Normal), student mood, mafia, etc.
-
-
-    </value>
-  </item>
-  <item code="contact_us" author="Mαrψ">
-    <btntext>How to Contact us</btntext>
-    <value>
-      Task management team, always cares about the players, so for the convenience of players and in
-      order to contact us any time, players can use the list of our channels and groups to below to
-      keep in touch with us:
-
-      *_ @TsWw_ChanneL* : This channel informs you about all the news, notifications, updates,
-      challenges, new ranks, etc.
-
-      * _ @TsWw_Support* : The management has provided this group as the support group for the bot
-      so that when players face a problem with the bot can inform the admins.
-      Also this group is linked with the notification channel to communicate easily with people who
-      have any comments and criticisms.
-
-      *_ @TsWwRelease* : This channel shows any updates performed to the bot in order to improve its
-      abilities or fix even small bugs detected at any moment.
-
-      *_ @TsWw_Idea* : As the name of the channel shows, it is related to the members' suggestions
-      regarding the tasks challenges, updates and improvements and , the bugs found by them, and
-      etc.
-
-      *_ @TsWwApi* : If the creator of a group wants to activate the Api token, he/she can join this
-      channel. This token is not free.
-
-      *_ @TsWw_Chat* : For your convenience, task management has created a group where you can spend
-      time with your friends from different groups regardless of werewolf matters.
-
-      *_ @TsWw_Ads* : This is a group where you can book ads in TSWW where all registered players in
-      task visit at least once a day.
-      In a separate document, how to request for an advertisement is explained completely.
-
-    </value>
-  </item>
-  <item code="dailygift" author="Mαrψ">
-    <btntext>Daily Gift</btntext>
-    <value>
-
-      Every 12 hours, All registered players in Task can earn free points as a daily gift from the
-      bot by using this command in the bot:
-      `/DailyGift@TsWwPlus_Bot`
-      `/DailyGift`
-
-      By sending the command, a multiple answer question is asked in the bot; after answering the
-      question correctly, a dice will be thrown by the robot. Based on the number shown by the dice,
-      between 100 to 600 points are added to the player's points in Task.
-      If the dice shows number 6, another dice will be thrown. The second dice doesn't add any
-      points; Just if the dice shows 6 again, as a reward, a dart is thrown by the bot. The maximum
-      point, you can get by the dart is 300 points.
-      So, as a daily gift by the TSWW you can collect from 100 to 900 free points twice a day.
-      Also, you can find a direct link to bot to get the daily gift through the messages which are
-      sent at the end of the confirmed games by Task by /confirm@TsWwPlus_Bot command.
-
-    </value>
-  </item>
-  <item code="fillit" author="Mαrψ">
-    <btntext>Sending an Invitation (fillit)</btntext>
-    <value>
-      As one of the admins of your Wolf group, have you ever encountered any problems for filling
-      the game? Fortunately, Task has solved this problem too. All you have to do is to join the
-      channel below:
-      https://t.me/joinchat/AAAAAFXQvS89k8VirGONPQ
-
-      Then make sure that the saved link of your group is valid in the robot.
-      To check the group link, use the mygroup/ command. If the link is not valid or you want to
-      change the link, use the command settslink/.
-      Finally, at the join time of the game, reply the list of players starting with *#players* and
-      send the fillit/ command. If you have done all these steps correctly, an invitation letter
-      will be sent simultaneously with the fillit command in the channel mentioned above, so that
-      the players can join your group to participate in the game if they want.
-
+* /confirm :*  Use this command to calculate your game points and save them to our database, but please pay attention to the notes mentioned below:
 
-    </value>
-  </item>
-  <item code="language" author="A̤̮ʀαՏH">
-    <btntext>Language</btntext>
-    <value>
-      To change the language of bot for yourself send */changelang* command in bot private chat, and
-      to change the group language send this command in your group (admins only).
-
-      Please note that the only supported languages by TSWW bot are English and Persian.
-
-    </value>
-  </item>
-  <item code="lists_of_tsww" author="A̤̮ʀαՏH">
-    <btntext>Lists of TSWW bot</btntext>
-    <value>
+1- The command must be replied on the latest message of the game.
 
+2- Game must be on original werewolf bot @werewolfbot or beta bot, and the only supported variant is Persian normal for now.
 
-      * /topgroups :* Use this command to receive a list of groups on TsWw System ordered by their
-      points in the current season of TSWW, average number of players in a game, average time of the
-      games and the numbers of registered players.
-
-      * /TopPlayers :* Use this command to receive a list of top ten registered players on TSWW
-      current season.
-
-      * /bests :* By this command you get a list of top players of your group. This command must be
-      sent by one of the group administrators.
-
-      * /seasons :* Use this command to check saved information about past seasons on TSWW.
-
-    </value>
-  </item>
-  <item code="log_channel" author="Mαrψ">
-    <btntext>Log Channel/Group</btntext>
-    <value>
-
-      By using this feature, you can have a record of the following changes:
-
-      _ Registration of Task players in your group
-      _ Group change of the pre_registered users (When someone registers in another group)
-      _ Changing the personal points of players.
-      _ Set the group link
-      _ Changing the welcome message of your group
-
-      *How to Set the Log Records in a Group*
-
-
-      First, add and promote the bot to admin in the group. Note that access to send messages is
-      essential!
-      Then get the numerical ID of your group and send the following command in the main group:
-      */logchnl log_channel_id*
-      Instead of log_channel_id, put the ID of the group. Example: /logchnl -10012345678910
-
-      *How to Set the Log Records in a Channel*
-
-
-      First, add and promote the bot in your group (access to send messages is necessary.) Forward
-      one message from the channel where you want the reports to be recorded. And finally, reply the
-      following command on the sent message: /logchnl
-
-
-    </value>
-  </item>
-  <item code="methods_of_death" author="Mαrψ">
-    <btntext>Methods of Death</btntext>
-    <value>
-
-
-      By typing the /wwdeaths command, you will see the five methods by which you have died more
-      with their percentages in the @werewolfbot. The most common of them are mentioned below:
-
-      * _Lynch:* Execution by voting
-      * _Eat: * Being eaten by wolves
-      * _Serial Killer:* Killed by a serial killer
-      * _Hunt:* Being hunted by a Cultist Hunter in the cult role
-      * _Lover Dead:* Die as a lover couple
-      * _Flee:* Being smited in a game
-      * _Idle:* Died because of not voting two nights in a row or die by chemists' poison
-      * _Hunter/Gunner Shot:* Killed by the hunter or gunner shot
-
-    </value>
-  </item>
-  <item code="personal_point" author="A̤̮ʀαՏH">
-    <btntext>Personal Point</btntext>
-    <value>
-
-      By using personal points you can simply give your group members some points or take back their
-      points. This system is useful for challenges held in your group، encouragement of active
-      members and admins, etc.
-
-      Personal pointing comprises features mentioned below:
-
-      1- increase or decrease users pp by group admins
-
-      2- reset all group's players pp
-
-      3- user points that are calculated from /confirm command.
-
-      4- Show a list of top players ordered by their pp.
-
-      *NOTE:* Naturally changing personal points will not affect users' or groups' original points.
-      *List of commands for using personal pointing system:*
-
-      * /pmenu :* Changes configurations such as using Confirmed points or all admins have access to
-      change pps.
-      * /ppoint :* Receives user's ppoint. The command can also be replied on players.
-      * /pbests :* Shows a list of top players of the group ordered by their ppoints.
-      * /cup X or +X or -X :* Changes, increases or decreases user ppoint.
-      All 3 mentioned commands must be replied on a player. Also, you can use the command by
-      telegram usernames like this: /cup @username X
-      * /reset :* Resets all players' ppoints in a group to zero.
-
-      To activate personal pointing in your group please process to the support group
-      (@TsWw_Support) .
-
-
-    </value>
-  </item>
-  <item code="pinging" author="A̤̮ʀαՏH">
+3- No game can be confirmed before a confirmed game.
+
+4- The command must be sent by a group administrator.
+
+* /Lgc : * Use this command to find the last confirmed game in the group if the messages are not cleared.
+
+ </value>
+</item><item code="confirm_info_1" author="Mαrψ">
+  <btntext>Confirmation Messages</btntext>
+  <value> When you confirm a game, three messages are sent in the group. The first message shows a summary of the finished game information. The second message announces the points of the players individually and in detail, and the third message contains other information about the game that is not included in the previous two messages. 
+In addition, by clicking on the button "view your statistics in the game" or by typing the command /mylatest in the robot's private chat, you can view the information about your last game, including time, role and score in the game.
+
+</value>
+</item><item code="confirm_info_2" author="Mαrψ">
+  <btntext>The First Message</btntext>
+  <value> In the first message, under the GIF sent about the winning team,  the following information is displayed in order:
+
+*1-* The duration of the game. 
+*2-* The winning team. 
+*3-* The number of winning players. 
+*4-* Information about the most points earned in the game. 
+*5-* The diehard player who is the last dead player who losed the game. 
+*6-* Points earned by the group from this game.
+
+
+And the way number 4 is calculated is as mentioned below: 
+
+_ Player name and his score. 
+_ Role weight of this player 
+_ Doubling the raw point due to being alive at the end of the game
+_ Adding 30% of raw point due to winning
+_ Adding 10% of the raw point as a survival ratio
+_ Group score, which is counted by the difference between the role weight of the winning and the losing teams 
+_ Doubling the points due to being in the winning team
+
+</value>
+</item><item code="confirm_info_3" author="Mαrψ">
+  <btntext>2nd Confirm Message</btntext>
+  <value> 
+
+*Meaning of the emojis used in the 2nd confirm_info message*
+
+If the player has registered in your group with the /registry command, the ✅ emoji can be seen next to the player's name. 
+If the player is registered in a group other than yours, the  ⚠️ emoji will be seen next to the player's name. 
+If the player is not registered in any group, the ❌ emoji will be seen next to his name. 
+If a player leaves the group or deletes his account before the end of the game, the  🌭  emoji will be seen next to his name at the end of the game. 
+
+* ⚰:* Indicates dead players during the game.
+*🌻:* Indicates alive players at the end of the game. 
+*✌️🏻:* This emoji is the sign of the winning team.
+* 🍆:* It is the symbol of the losing teams in the game. 
+* 🤠:* It represents the villagers' team at the end of the game. 
+* 🐺:* This is a symbol of the wolf team at the end of the game.
+* 👥:* This is the symbol of the cult team. 
+* 🔥:* This emoji is a symbol of arsonist. 
+* 👺:* It is the symbol of the tanner who wins the game if executed. 
+* 🔪:* This emoji is the symbol of the serial killer.
+
+The 💤 emoji indicates the players who have reached the 10-hour daily limitation for playing games confirmed by TSWW. After the end of the time limitation, players can use their saved time if they have any which is maximum 12 hours. 
+The ⏳ emoji also indicates players who have not reached the daily time limitation at the end of the game.
+
+
+</value>
+</item><item code="confirm_info_4" author="Mαrψ">
+  <btntext>The Last Confirm_info Message</btntext>
+  <value> 
+The last message after confirming the game includes the following information:
+
+_ The number of smited players in the game. 
+_ The duration of the game compared to the normal condition based on the number of players.
+_ Enabled/disabled adding personal points in the group.
+_ The number of registered players of the group in the game and their percentage.
+_ Game moods, including the main mood (Normal), student mood, mafia, etc.
+
+
+</value>
+</item><item code="contact_us" author="Mαrψ">
+  <btntext>How to Contact us</btntext>
+  <value>
+Task management team, always cares about the players, so for the convenience of players and in order to contact us any time, players can use the list of our channels and groups to below to keep in touch with us:
+
+ *_ @TsWw_ChanneL* : This channel informs you about all the news, notifications, updates, challenges, new ranks, etc. 
+
+ * _ @TsWw_Support* : The management has provided this group as the support group for the bot so that when players face a problem with the bot can inform the admins. 
+Also this group is linked with the notification channel to communicate easily with people who have any comments and criticisms. 
+
+*_ @TsWwRelease* : This channel shows any updates performed to the bot in order to improve its abilities or fix even small bugs detected at any moment. 
+
+*_ @TsWw_Idea* : As the name of the channel shows, it is related to the members' suggestions regarding the tasks challenges, updates and improvements and , the bugs found by them, and etc. 
+
+*_ @TsWwApi* : If the creator of a group wants to activate the Api token, he/she can join this channel. This token is not free. 
+
+*_ @TsWw_Chat* : For your convenience, task management has created a group where you can spend time with your friends from different groups regardless of werewolf matters.  
+
+*_  @TsWw_Ads* : This is a group where you can book ads in TSWW where all registered players in task visit at least once a day. 
+In a separate document, how to request for an advertisement is explained completely.
+
+</value>
+</item><item code="dailygift" author="Mαrψ">
+  <btntext>Daily Gift</btntext>
+  <value>
+
+Every 12 hours, All registered players in Task can earn free points as a daily gift from the bot by using this command in the bot:
+`/DailyGift@TsWwPlus_Bot`
+`/DailyGift`
+
+By sending the command, a multiple answer question is asked in the bot; after answering the question correctly, a dice will be thrown by the robot. Based on the number shown by the dice, between 100 to 600 points are added to the player's points in Task. 
+If the dice shows number 6, another dice will be thrown. The second dice doesn't add any points; Just if the dice shows 6 again, as a reward, a dart is thrown by the bot. The maximum point, you can get by the dart is 300 points. 
+So, as a daily gift by the TSWW you can collect from 100 to 900 free points twice a day. 
+Also, you can find a direct link to bot to get the daily gift through the messages which are sent at the end of the confirmed games by Task by /confirm@TsWwPlus_Bot command.
+
+</value>
+</item><item code="fillit" author="Mαrψ">
+  <btntext>Sending an Invitation (fillit)</btntext>
+  <value> 
+As one of the admins of your Wolf group, have you ever encountered any problems for filling the game? Fortunately, Task  has solved this problem too. All you have to do is to join the channel below:
+ https://t.me/joinchat/AAAAAFXQvS89k8VirGONPQ
+
+Then make sure that the saved link of your group is valid in the robot. 
+To check the group link, use the mygroup/ command. If the link is not valid or you want to change the link, use the command settslink/. 
+Finally, at the join time of the game, reply the list of players starting with *#players* and send the fillit/ command. If you have done all these steps correctly, an invitation letter will be sent simultaneously with the fillit command in the channel mentioned above, so that the players can join your group to participate in the game if they want.
+
+
+
+</value>
+</item><item code="language" author="A̤̮ʀαՏH">
+  <btntext>Language</btntext>
+  <value>
+To change the language of bot for yourself send */changelang* command in bot private chat, and to change the group language send this command in your group (admins only).
+
+Please note that the only supported languages by TSWW bot are English and Persian. 
+
+</value>
+</item><item code="lists_of_tsww" author="A̤̮ʀαՏH">
+  <btntext>Lists of TSWW bot</btntext>
+  <value>
+
+
+* /topgroups :* Use this command to receive a list of groups on TsWw System ordered by their points in the current season of TSWW, average number of players in a game, average time of the games and the numbers of registered players.
+
+* /TopPlayers :* Use this command to receive a list of top ten registered players on TSWW current season.
+
+* /bests :* By this command you get a list of top players of your group.  This command must be sent by one of the group administrators. 
+
+* /seasons :* Use this command to check saved information about past seasons on TSWW.
+
+</value>
+</item><item code="log_channel" author="Mαrψ">
+  <btntext>Log Channel/Group</btntext>
+  <value> 
+
+By using this feature, you can have a record of the following changes: 
+
+_ Registration of Task players in your group
+_ Group change of the pre_registered users (When someone registers in another group)
+_ Changing the personal points of players. 
+_ Set the group link 
+_ Changing the welcome message of your group
+
+*How to Set the Log Records in a Group*
+
+
+First, add and promote the bot to admin in the group. Note that access to send messages is essential! 
+Then get the numerical ID of your group and send the following command in the main group:
+*/logchnl log_channel_id*
+Instead of log_channel_id, put the ID of the group. Example: /logchnl -10012345678910
+
+*How to Set the Log Records in a Channel*
+
+
+First, add and promote the bot in your group (access to send messages is necessary.) Forward  one message from the channel where you want the reports to be recorded. And finally, reply the following command on the sent message: /logchnl
+
+
+</value>
+</item><item code="methods_of_death" author="Mαrψ">
+  <btntext>Methods of Death</btntext>
+  <value>
+
+
+By typing the /wwdeaths command, you will see the five methods by which you have died more with their percentages in the @werewolfbot. The most common of them are mentioned below:
+
+* _Lynch:*  Execution by voting
+* _Eat: * Being eaten by wolves
+* _Serial Killer:* Killed by a serial killer 
+* _Hunt:*  Being hunted by a Cultist Hunter in the cult role 
+* _Lover Dead:* Die as a lover couple
+ * _Flee:* Being smited in a game
+ * _Idle:* Died because of not voting two nights in a row or die by chemists' poison
+* _Hunter/Gunner Shot:* Killed by the hunter or gunner shot
+
+</value>
+</item><item code="personal_point" author="A̤̮ʀαՏH">
+  <btntext>Personal Point</btntext>
+  <value>
+
+By using personal points you can simply give your group members some points or take back their points. This system is useful for challenges held in your group، encouragement of active members and admins, etc.
+
+Personal pointing comprises features mentioned below:
+
+1- increase or decrease users pp by group admins
+
+2- reset all group's players pp
+
+3- user points that are calculated from /confirm command.
+
+4- Show a list of top players ordered by their pp.
+
+*NOTE:* Naturally changing personal points will not affect users' or groups' original points.
+
+*List of commands for using personal pointing system:*
+
+* /pmenu :* Changes configurations such as using Confirmed points or all admins have access to change pps.
+* /ppoint :* Receives user's ppoint. The command can also be replied on players. 
+* /pbests :* Shows a list of top players of the group ordered by their ppoints. 
+* /cup X  or +X or -X :* Changes, increases or decreases user ppoint. 
+All 3 mentioned commands must be replied on a player. Also, you can use the command by telegram usernames like this: /cup @username X
+* /reset :* Resets all players' ppoints in a group to zero.
+
+To activate personal pointing in your group please process to the support group (@TsWw_Support) .
+
+
+</value>
+</item><item code="pinging" author="A̤̮ʀαՏH">
     <btntext>Pinging Members</btntext>
-    <value> Here is the list of commands used for pinging players in a group. Note that pinging is
-      available every 20 minutes in your group.
-
-
-      * /tsping (count) :* Use this command to ping all registered members of task system in your
-      group, remember that the command must be sent by group administrators.
-
-      * /pingstop :* If you use this command you will no longer get pinged in any group by TsWwplus.
-      * /pingstart :* If you use this command you will be pinged in groups again.
-
-      * /pingname :* Use this command if you want to change your name when tagging. For example
-      :/pingname name
-
-      * /pingrmv :* Use this command to avoid Task tagging a member. Only admins can use this
-      command by replying someone, or using her/his username or number ID.
-
-    </value>
-  </item>
-  <item code="ranks_1" author="Mαrψ">
-    <btntext>Rank Management</btntext>
-    <value>
-      As mentioned in other documents about ranks, by sending /myranks in *Task private chat*, the
-      menu of your ranks will be opened and the number of keys you own will be shown, too.
-
-      *The use of each glass button in /myranks menu:*
-
-      _ By touching *🎭 A Tricky Spy*, if you have 3 keys, you will get this rank.
-
-      _ By touching *🍩 I'll Show You Everything*, you will get this rank if you have one key.
-
-      _ By touching *📿 The Humble Guy*, if you have 2 keys, you will get this rank.
-
-      _ If you participate in Task's summer challenges and get the summer fruits rank, you can set
-      your favorite fruit as the rank or change the selected fruit by touching *🍓Summer Fruits🍌*
-      at anytime.
-
-      _ In the *👩‍🎓Student Rank👨‍🎓* menu, if you have earned the student rank by reading and
-      scoring 15 articles from the /docs menu of the robot, you can select or change your emoji rank
-      according to your gender and skin color from the following emojis:
-      👩🏻‍🎓👩🏼‍🎓👩🏽‍🎓👩🏾‍🎓👩🏿‍🎓
-      👨🏻‍🎓👨🏼‍🎓👨🏽‍🎓👨🏾‍🎓👨🏿‍🎓
-      🧑🏻‍🎓🧑🏼‍🎓🧑🏽‍🎓🧑🏾‍🎓🧑🏿‍🎓
-
-      _ By touching *🔨Remove a Rank*, you can delete the ranks you got by keys, but remember that
-      your keys will not be returned to your account after it!
-
-      _ By touching *🎨Change Order*, you can change the order of your ranks and you can also choose
-      which ranks will be displayed and which ranks will be hidden.
-      For this purpose, you can use the ⇡⇣ keys to move the ⌘ cursor up and down. When the cursor is
-      in front of the desired rank, you can change the order of the rank by using the ⟰⟱ keys. Also,
-      with the ⊂ ⊛ ⊃ key, you can hide or turn off that rank as long as you want. ⊷ is a sign that
-      the rank is on and ⊶ is a sign that the rank is off.
-      After applying the changes, the changes are saved by pressing the セーブ button.
-
-      If you get a new rank, send the following command to the private chat of Task to display your
-      new rank:
-      /myranks showcount 20
-
-    </value>
-  </item>
-  <item code="ranks_2" author="Mαrψ">
-    <btntext>All Ranks</btntext>
-    <value>
-      Types of ranks
-
-      *Ranks available by financial support:*
-
-      🍩: The werewolf stats of players who have this rank, is accessible by everyone via reply by
-      Task commands. (requires 1 key🔑)
-      📿: By this rank the name of players will not be shown in any of Task lists. Instead of the
-      name it is written *"The Humble Guy" *. (requires 2 keys🔑)
-      🎭: The statistics of players with this rank cannot be reached by others. (requires 3 keys🔑)
-      Send /myranks command in the bot to get the ranks which need key(s). One free key in given to
-      all players as a gift. To buy each key you should donate 100k Rials to Task.
-      💰: If you financially support the task collection, at least 100k Rials you will receive this
-      rank.
-      🧸: If you register an ad for one day in the bot, you will receive this rank. You should pay
-      20k Rials for a one day advertisement.
-
-      *Managerial Ranks*
-
-      🎀: Special Rank only for the owner of the Task !
-      🌸: Special rank for administrators and assistants of achievement group who are able to manage
-      and hunt achievements of @werewolfbot for players.
-      🌙: Special rank for the admins of Task and also for groups under Task management.
-      🎈: This rank is given by Task admins to different players who are friends of admins.
-      ✨: This rank is given to those who have cooperated in managing the challenges hold by Task
-      management .
-
-      *Ranks obtained by playing werewolf :*
-
-      🏆: This rank belongs to the top group of each Task's season based on points.
-      🏅: This rank belongs to the top player of the groups that gain more than 2 million points at
-      the end of the season.
-      🥇 : This one is for the top ranked player in the list of top players of the bot at the end of
-      each season.
-      🥈: This rank belongs to the second player among all players of Task based on the points
-      earned.
-      🥉: This rank belongs to the third player among all players of Task based on the points
-      earned.
-
-      *Skill ranks:*
-      ✍: If you can provide a new document that gives explanations about the abilities of Task and
-      how to use them, you will receive this rank.
-      💻: This rank is for those who are known as programmers by the owner of Task.
-      👩‍🎓🧑‍🎓: This rank belongs to players who read and vote at least 15 documents in the /docs
-      menu.
-      💕: If you improve the performance of the bot and help adding new abilities to Task system, by
-      your ideas, suggestions, criticism, and etc. you will receive this rank.
-
-      *Challenge ranks:*
-      🍉🍇🍒🍑🍓🍐🍍🍌🥑🥥: Whenever you participate in the summer challenge hold by Task
-      management, based on the rules announced in the challenge, you will receive this rank as a
-      reward. Later you can use /myranks command to choose your favourite fruit.
-      🍟🍕🍿🍺🍰🧀: If you participate in the birthday ceremony that is announced in the Task system
-      channel, you will receive this rank.
-      🍁: If you participate in the autumn challenge, based on the rules announced in the challenge,
-      you will receive this rank.
-      ⚜: If you are recognized as a best player in special bot challenges, you will receive this
-      rank.
-      🤱: This rank is for special Mother's Day challenge.
-      🐯: This rank was for the challenge held for Nowrouz of 1401 (Year of the Tiger).
-
-      ⚠️ All challenges are announced in the Task channel (@TsWw_Channel).
-
-
-    </value>
-  </item>
-  <item code="ranks_3" author="Mαrψ">
-    <btntext>What is rank?</btntext>
-    <value>
-
-      In TSWW bot ranks are awarded to players to show their specific status, achievements, skills
-      and prizes for special challenges.
-
-      ⚠️ Read all the information about the ranks at @TsWwRanks.
-
-      Your ranks are always shown by /mystate command and by clicking on each rank you can find the
-      description of the it.
-
-      *How to Get Ranks*
-      Ranks are given to users only by Task admins or automatically by the bot itself.
-      You can use the /myranks command to view and edit your current ranks.
-      You can also see other players' ranks by replying /myranks on them in a group with TSWW bot.
-
-    </value>
-  </item>
-  <item code="registration" author="Arash">
-    <btntext> Registration in Task </btntext>
-    <value>
-
-      To register in the bot, simply send */registry* command to the group that robot is active in.
-      Then click on registry button and process to the bot private chat.
-
-      To change your group also just follow the same steps mentioned above in every other group.
-
-      Note that after changing your group you will receive a 2 day restriction for changing group
-      and your point will change to zero also.
-
-      *- /GetMeOutOfHere :* use this command to remove your account details completely from bot
-      databases.
-
-      *- /chnlchk :* use this command you check and receive 2000 channel free points.
-
-    </value>
-  </item>
-  <item code="roles_weight" author="Mαrψ">
-    <btntext>Roles' Weight in Task</btntext>
-    <value>
-
-      The weight of the roles indicates the strength of each role.
-      Based on these weights, Task gives every role a basic point which is equal to its weight.
-
-      *- Villagers' Team:*
-
-      Lowly Villager 🧑: 1
-      Drunk 🍺 : 3
-      Harlot 💋: 6
-      Detective 🕵️: 6
-      Cupid 🏹: 2
-      Wolfman 👨🌚: 1
-      Augur 🦅: 5
-      Pacifist ☮: 3
-      Fool🃏: 3
-      Gunner 🔫: 6
-      Wise Elder 📚: 3
-      Oracle 🌀: 4
-      Sandsman 💤 : 3
-      Troublemaker 🤯: 5
-      Chemist 👨‍🔬: 0
-      Apprentice Seer 🙇‍♂️: 6
-      Grave Digger ☠️: 5
-      The hunter 🎯: 6
-      Blacksmith ⚒: 5
-      Clumsy Guy 🤕 : 1-
-      Mayor 🎖: 4
-      Prince 👑: 3
-      Seer 👳:
-      4, if lycan and wolfman are in the game.
-      5, if wolfman is in the game.
-      6, if lycan is in the game.
-      7, if none.
-      Guardian Angel 👼:
-      8, if there is an arsonist.
-      7, if there isn't an arsonist.
-      Beholder 👁:
-      6, if there are fool and seer in the game.
-      5, if only seer
-      2, if only fool
-      1, if none.
-      Cultist Hunter:
-      7, if there is cult
-      1, if there is no cult
-      Mason👷:
-      1, there is only one mason.
-      3, For each mason one is added to 3. For example, if there are 2 masons the weight will be
-      5=2+3
-
-      *- Wolves team:*
-      Werewolf 🐺: 10
-      Sorcerer 🔮: 2
-      Alpha Wolf ⚡️ : 12
-      Lycan 🐺🌝 : 10
-      Snow Wolf 🐺⛄️: 15
-      Wolf Cub 🐶:
-      12, if there is a teammate
-      10, if there is no teammate
-
-      *- Wolf's villager teammates:*
-      Wild Child 👶: 1
-      Traitor🖕: 0
-      Cursed 😾:
-      1, if the villagers win.
-      0, if the wolves win.
-
-      *- Other teams:*
-      Doppelganger 🎭: 2
-      Serial Killer 🔪: 15
-      Thief 😈 : 0
-      Arsonist 🔥 : 8
-      Tanner 👺: Half of the number of players in a game.
-      Cult: 10
-      (+1) for each player who becomes a cult.
-
-      *- Task exceptions:*
-      Due to not having negative points in Task, some exceptions have been considered for scoring.
-      Clumsy Guy🤕: 1
-      Thief 😈 : 4
-      Chemist 🧑🏻‍🔬: 1
-      Traitor 🖕: 1
-
-    </value>
-  </item>
-  <item code="saving_roles_1" author="Mαrψ">
-    <btntext>Saving Roles Part 1</btntext>
-    <value>
-      *Saving Roles by Task*
-
-      By using the ability of Task in saving roles, you can easily manage the game and remember the
-      roles of the players in a game.
-
-      To start, just reply the /new command on the first list of players after the game started.
-      Even if you are in the middle of a game, you can reply the /clup command on the last list of
-      players.
-
-      Then, the bot will send a list of alive and dead players to receive roles. The first list will
-      be updated as roles are added or players are dead; Task will pin the list if it has access to
-      pin messages.
-
-      Now players can save their roles by using /ts command and putting the desired text. for
-      example:
-      /ts ww
-      This command will register the player's role as "werewolf 🐺". This command has a default
-      description for each role and if you enter it instead of the role, it will show the
-      corresponding role. For example, ww, wolf, werewolf, etc. will all be saved as werewolf 🐺.
-
-      To update the list of dead players of the first list, reply the /stsup command on the last
-      list of players of @werewolfbot. If you want Task to send the list of roles, you can use the
-      /tsup command instead of /stsup.
-
-      During the game, you can use the /list command to get the latest list of roles.
-
-      At the end of the game, you can clear the list of players and the pinned message using the
-      /clear command.
-
-    </value>
-  </item>
-  <item code="saving_roles_2" author="Mαrψ">
-    <btntext>Saving Roles Part 2</btntext>
-    <value>
-      In addition to the commands in the previous article, there are some other commands that help
-      you in saving roles which are explained in the following:
-
-      _ Get the player's saved role by replying the /role command on a player.
-
-      _ Use the /tswho command to see which player has saved a certain role. Example
-      /tswho wolf
-      (There is no need to enter the exact letters of the role, for example, the word "wolf" is
-      enough for the role of a werewolf)
-
-      _ Remove the roles of players who have used inappropriate or promotional words: (only by
-      admins)
-      /noshit group ad
-
-      _ Use the /eq command to get a list to balance the votes based on the last list of saved
-      roles.
-
-      _ Set a text or the name of a player for *voting* by the /slv command (by replying or in front
-      of the command). This text can be received at any time using /glv command. (only by admins)
-
-
-    </value>
-  </item>
-  <item code="saving_roles_3" author="Mαrψ">
-    <btntext>Abbreviations of Roles</btntext>
-    <value>
-      Task can save the roles by using abbreviations of each role. For example you can use * /ts ma
-      * instead of using * /ts mason *.
-
-      *List of Abbreviations for Each Role Used in Task*
-
-      ch = cultist hunter💂‍♀️
-      bh = beholder 👁
-      ga = gaurdian angel👼
-      se = seer 👳
-      ha = harlot 💋
-      de = detective🕵‍♂
-      app = apprentice seer 🙇
-      or = oracle 🌀
-      fo = fool🃏
-      gu = gunner 🔫
-      au = augur 🦅
-      cm = chemist🧑‍🔬
-      sm = sandsman 💤
-      bs = blacksmith ⚒
-      hu = hunter 🎯
-      pc = pacifist ☮️
-      tm = troublemaker 🤯
-      gd = grave digger ☠️
-      we = wise elder 📚
-      mj = mayor🎖
-      pr = prince 👑
-      cp = cupid 🏹
-      dr = drunk 🍻
-      cg = clumsy guy 🤕
-      wm = wolfman 👨🌚
-      ma = mason👷
-      vg = lowly villager👱
-      wc = wild child 👶
-      cr = cursed 😾
-      tr = traitor🖕
-      cult = cult 👤
-      aw = alpha wolf⚡️
-      cub = wolf cub 🐶
-      x = lycan 🐺🌝
-      ww = werewolf🐺
-      sw = Snow Wolf🐺⛄️
-      sc = sorcerer 🔮
-      sk = serial killer 🔪
-      ta = tanner 👺
-      arr = arsonist 🔥
-      dg = doppelganger 🎭
-      th = thief 😈
-
-
-    </value>
-  </item>
-  <item code="seasons" author="Mαrψ">
-    <btntext>Task Seasons</btntext>
-    <value>
-      In order to make the competitions more attractive and fair, the scores of users and groups
-      reset to zero every three months.
-      Each season has a specific name and based on the points gathered in each season, a top group
-      and 3 top players are chosen and will be saved in Task. You can see the list and information
-      of completed seasons of Task by /seasons command. Also, the points of top 3 players and the
-      top group, the number of total games played in all the groups that use Task and date and time
-      that the season ended are mentioned too.
-
-
-    </value>
-  </item>
-  <item code="simple_wlc_message" author="Mαrψ">
-    <btntext>Simple Welcome Message</btntext>
-    <value>
-      *_ Activation:*
-
-      First, activate the default welcome message by sending /tswelcome command in the group. Then
-      by sending */tswelcome on*, you can activate the welcome message for your group and by sending
-      */tswelcome off*
-      you can disable it.
-      You can also delete old welcome messages by sending */tswelcome delon* command and you can
-      also keep them by */tswelcome deloff*.
-
-      *_ Setting a message:*
-      To set a personalized welcome message, reply the /tswelcome command
-      on the desired message.
-      Note that if the text of the message is *no* , it will change back to the default text.
-
-      *_ Message design:*
-      The format of your welcome message can be like this:
-
-      Hello, dear friend {name}, welcome to the {grouptitle} group.
-      User ID: {id}
-      Number of games played: {gameplayed}
-
-      The parameters of the bot are as follows:
-      Username: {name}
-      Clickable username: {namelink}
-      Group Name: {grouptitle}
-      Completed games: {gameplayed}
-      Number of wins: {won}
-      Winning percentage: {wonper}
-      Number of losses: {lost}
-      Percentage of losses: {lostper}
-      User language code: {langcode}
-      User ID: {id}
-      Username: {usrname}
-
-      All items can be deleted or changed.
-      In the welcome message, you can use curved bold texts, hyperlinks, etc. directly or by using
-      html tags.
-
-      If you need more help, visit the bot support group.
-      @TsWw_Support
-
-    </value>
-  </item>
-  <item code="states" author="A̤̮ʀαՏH">
+    <value> Here is the list of commands used for pinging players in a group. Note that pinging is available every 20 minutes in your group.
+ 
+
+* /tsping (count) :* Use this command to ping all registered members of task system in your group, remember that the command must be sent by group administrators. 
+
+* /pingstop :* If you use this command you will no longer get pinged in any group by TsWwplus.
+
+* /pingstart :* If you use this command you will be pinged in groups again.
+
+* /pingname :* Use this command if you want to change your name when tagging. For example :/pingname name
+ 
+* /pingrmv :* Use this command to avoid Task tagging a member. Only admins can use this command by replying someone, or using her/his username or number ID. 
+
+ </value>
+</item><item code="ranks_1" author="Mαrψ">
+  <btntext>Rank Management</btntext>
+  <value> 
+As mentioned in other documents about ranks,  by sending /myranks in *Task private chat*, the menu of your ranks will be opened and the number of keys you own will be shown, too.
+
+*The use of each glass button in /myranks menu:* 
+
+_ By touching *🎭 A Tricky Spy*, if you have 3 keys, you will get this rank.
+
+_ By touching *🍩 I'll Show You Everything*, you will get this rank if you have one key.
+ 
+_ By touching *📿 The Humble Guy*, if you have 2 keys, you will get this rank.
+
+_ If you participate in Task's summer challenges and get the summer fruits rank, you can set your favorite fruit as the rank or change the selected fruit by touching *🍓Summer Fruits🍌* at anytime.
+
+_ In the *👩‍🎓Student Rank👨‍🎓* menu, if you have earned the student rank by reading and scoring 15 articles from the /docs menu of the robot, you can select or change your emoji rank according to your gender and skin color from the following emojis:
+👩🏻‍🎓👩🏼‍🎓👩🏽‍🎓👩🏾‍🎓👩🏿‍🎓
+👨🏻‍🎓👨🏼‍🎓👨🏽‍🎓👨🏾‍🎓👨🏿‍🎓
+🧑🏻‍🎓🧑🏼‍🎓🧑🏽‍🎓🧑🏾‍🎓🧑🏿‍🎓
+
+_ By touching *🔨Remove a Rank*, you can delete the ranks you got by keys, but remember that your keys will not be returned to your account after it!
+
+_ By touching *🎨Change Order*, you can change the order of your ranks and you can also choose which ranks will be displayed and which ranks will be hidden.
+For this purpose, you can use the ⇡⇣ keys to move the ⌘ cursor up and down. When the cursor is in front of the desired rank, you can change the order of the rank by using the ⟰⟱ keys. Also, with the ⊂ ⊛ ⊃ key, you can hide or turn off that rank as long as you want. ⊷ is a sign that the rank is on and ⊶ is a sign that the rank is off.
+After applying the changes, the changes are saved by pressing the セーブ  button.
+
+If you get a new rank, send the following command to the private chat of Task to display your new rank:
+/myranks showcount 20
+
+</value>
+</item><item code="ranks_2" author="Mαrψ">
+  <btntext>All Ranks</btntext>
+  <value> 
+Types of ranks 
+
+*Ranks available by financial support:*
+
+🍩: The werewolf stats of players who have this rank, is accessible by everyone via reply by Task commands.  (requires 1 key🔑)
+📿: By this rank the name of players will not be shown in any of Task lists. Instead of the name it is written *"The Humble Guy" *. (requires 2 keys🔑)
+🎭: The statistics of players with this rank cannot be reached by others. (requires 3 keys🔑)
+
+Send /myranks command in the bot to get the ranks which need key(s). One free key in given to all players as a gift. To buy each key you should donate 100k Rials to Task. 
+💰: If you financially support the task collection, at least 100k Rials you will receive this rank.
+🧸: If you register an ad for one day in the bot, you will receive this rank. You should pay 20k Rials for a one day advertisement. 
+
+*Managerial Ranks*
+
+🎀: Special Rank only for the owner of the Task !
+🌸: Special rank for administrators and assistants of achievement group who  are able to manage and hunt achievements of @werewolfbot for players.
+🌙: Special rank for the admins of Task and also for groups under Task management.  
+🎈: This rank is given by Task admins to different players who are friends of admins. 
+✨: This rank is given to those who have cooperated in managing the challenges hold by Task management .
+
+*Ranks obtained by playing werewolf :*
+
+🏆: This rank belongs to the top group of each Task's season based on points. 
+🏅: This rank belongs to the top player of the groups that gain more than 2 million points at the end of the season. 
+🥇 : This one is for the top ranked player in the list of top players of the bot at the end of each season. 
+🥈: This rank belongs to the second player among all players of Task based on the points earned. 
+🥉: This rank belongs to the third player among all players of Task based on the points earned.  
+
+*Skill ranks:*
+✍: If you can provide a new document that gives explanations about the abilities of Task and how to use them, you will receive this rank.
+💻: This rank is for those who are known as programmers by the owner of Task. 
+👩‍🎓🧑‍🎓: This rank belongs to players who read and vote at least 15 documents in the /docs menu. 
+💕: If you improve the performance of the bot and help adding new abilities to Task system, by your ideas, suggestions, criticism, and etc. you will receive this rank. 
+
+*Challenge ranks:*
+🍉🍇🍒🍑🍓🍐🍍🍌🥑🥥: Whenever you participate in the summer challenge hold by Task management, based on the rules announced in the challenge, you will receive this rank as a reward. Later you can use /myranks command to choose your favourite fruit. 
+🍟🍕🍿🍺🍰🧀: If you participate in the birthday ceremony that is announced in the Task system channel, you will receive this rank.
+🍁: If you participate in the autumn challenge, based on the rules announced in the challenge, you will receive this rank.
+⚜: If you are recognized as a best player in special bot challenges, you will receive this rank.
+🤱: This rank is for special Mother's Day challenge.
+🐯: This rank was for the challenge held for Nowrouz of 1401 (Year of the Tiger).
+
+⚠️ All challenges are announced in the Task channel (@TsWw_Channel).
+
+
+</value>
+</item><item code="ranks_3" author="Mαrψ">
+  <btntext>What is rank?</btntext>
+  <value> 
+
+In TSWW bot ranks are awarded to players to show their specific status, achievements, skills and prizes for special challenges. 
+
+⚠️ Read all the information about the ranks at @TsWwRanks. 
+
+Your ranks are always shown by /mystate command and by clicking on each rank you can find the description of the it. 
+
+*How to Get Ranks*
+Ranks are given to users only by Task admins or automatically by the bot itself. 
+You can use the /myranks command to view and edit your current ranks.
+You can also see other players' ranks by replying /myranks on them in a group with TSWW bot.
+
+</value>
+</item><item code="registration" author="Arash">
+  <btntext> Registration in Task </btntext>
+  <value> 
+
+To register in the bot, simply send */registry* command to the group that robot is active in. Then click on registry button and process to the bot private chat.
+
+To change your group also just follow the same steps mentioned above in every other group.
+
+Note that after changing your group you will receive a 2 day restriction for changing group and your point will change to zero also.
+
+*- /GetMeOutOfHere :*  use this command to remove your account details completely from bot databases.
+
+*- /chnlchk :*  use this command you check and receive 2000 channel free points.
+
+</value>
+</item><item code="roles_weight" author="Mαrψ">
+  <btntext>Roles' Weight in Task</btntext>
+  <value> 
+
+The weight of the roles indicates the strength of each role.
+Based on these weights,  Task  gives every role a basic point which is equal to its weight. 
+
+*- Villagers' Team:*
+
+Lowly Villager 🧑: 1
+Drunk 🍺 : 3
+Harlot 💋: 6
+Detective 🕵️: 6
+Cupid 🏹: 2
+Wolfman 👨🌚: 1
+Augur 🦅: 5
+Pacifist ☮: 3
+Fool🃏: 3
+Gunner 🔫: 6
+Wise Elder 📚: 3
+Oracle 🌀: 4
+Sandsman 💤 : 3
+Troublemaker 🤯: 5
+Chemist 👨‍🔬: 0
+Apprentice Seer 🙇‍♂️: 6
+Grave Digger ☠️: 5
+The hunter 🎯: 6
+Blacksmith ⚒: 5
+Clumsy Guy 🤕 : 1-
+Mayor 🎖: 4
+Prince 👑: 3
+Seer 👳:
+4, if lycan and wolfman are in the game. 
+5, if wolfman is in the game.
+6, if lycan is in the game.
+7, if none.
+Guardian Angel 👼:
+8, if there is an arsonist.
+7, if there isn't an arsonist.
+Beholder 👁:
+6, if there are fool and seer in the game. 
+5, if only seer
+2, if only fool
+1, if none.
+Cultist Hunter:
+7, if there is cult
+1, if there is no cult
+Mason👷:
+1, there is only one mason.
+3, For each mason one is added to 3. For example, if there are 2 masons the weight will be 5=2+3
+
+*- Wolves team:*
+Werewolf 🐺: 10
+Sorcerer 🔮: 2
+Alpha Wolf ⚡️ : 12
+Lycan 🐺🌝 : 10
+Snow Wolf 🐺⛄️: 15
+Wolf Cub 🐶:
+12, if there is a teammate 
+10, if there is no teammate
+
+*- Wolf's  villager teammates:*
+Wild Child 👶: 1
+Traitor🖕: 0
+Cursed 😾:
+1, if the villagers win.
+0, if the wolves win.
+
+*- Other teams:*
+Doppelganger 🎭: 2
+Serial Killer 🔪: 15
+Thief 😈 : 0
+Arsonist 🔥 : 8
+Tanner 👺: Half of the number of players in a game.
+Cult: 10
+(+1) for each player who becomes a cult. 
+
+*- Task exceptions:*
+Due to not having negative points in Task, some exceptions have been considered for scoring.
+Clumsy Guy🤕: 1
+Thief 😈 : 4
+Chemist 🧑🏻‍🔬: 1
+Traitor 🖕: 1
+
+</value>
+</item><item code="saving_roles_1" author="Mαrψ">
+  <btntext>Saving Roles Part 1</btntext>
+  <value> 
+*Saving Roles by Task*
+
+By using the ability of Task in saving roles, you can easily manage the game and remember the roles of the players in a game. 
+
+To start, just reply the /new command on the first list of players after the game started.
+Even if you are in the middle of a game, you can reply the /clup command on the last list of players. 
+
+Then, the bot will send a list of alive and dead players to receive roles. The first list will be updated as roles are added or players are dead; Task will pin the list if it has access to pin messages.
+
+Now players can save their roles by using /ts command and putting the desired text. for example:
+/ts ww
+This command will register the player's role as "werewolf 🐺". This command has a default description for each role and if you enter it instead of the role, it will show the corresponding role. For example,  ww, wolf, werewolf, etc. will all be saved as werewolf 🐺.
+
+To update the list of dead players of the first list, reply the /stsup command on the last list of players of @werewolfbot. If you want Task to send the list of roles, you can use  the /tsup command instead of /stsup. 
+ 
+During the game, you can use the /list command to get the latest list of roles.
+
+At the end of the game, you can clear the list of players and the pinned message using the /clear command.
+
+</value>
+</item><item code="saving_roles_2" author="Mαrψ">
+  <btntext>Saving Roles Part 2</btntext>
+  <value> 
+In addition to the commands in the previous article, there are some other commands that help you in saving roles which are explained  in the following: 
+
+_ Get the player's saved role by replying the /role command on a player.
+
+_ Use the /tswho command to see which player has saved a certain role. Example
+/tswho wolf
+(There is no need to enter the exact letters of the role, for example, the word "wolf" is enough for the role of a werewolf)
+
+_ Remove the roles of players who have used inappropriate or promotional words: (only by admins) 
+/noshit group ad
+
+_ Use the /eq command to get a list to balance the votes based on the last list of saved roles.
+
+_ Set a text or the name of a player for *voting*  by the  /slv command (by replying or in front of the command). This text can be received at any time using /glv command. (only by admins)
+
+
+</value>
+</item><item code="saving_roles_3" author="Mαrψ">
+  <btntext>Abbreviations of Roles</btntext>
+  <value> 
+Task can save the roles by using abbreviations of each role. For example you can use * /ts ma * instead of using * /ts mason *.  
+
+*List of Abbreviations for Each Role Used in Task* 
+
+ch = cultist hunter💂‍♀️
+bh = beholder 👁
+ga = gaurdian angel👼
+se = seer 👳
+ha = harlot 💋
+de = detective🕵‍♂
+app = apprentice seer 🙇
+or = oracle 🌀
+fo = fool🃏
+gu = gunner 🔫
+au = augur 🦅
+cm = chemist🧑‍🔬
+sm = sandsman 💤
+bs = blacksmith ⚒
+hu = hunter 🎯
+pc = pacifist ☮️
+tm = troublemaker 🤯
+gd = grave digger ☠️
+we = wise elder 📚
+mj = mayor🎖
+pr = prince 👑
+cp = cupid 🏹
+dr = drunk 🍻
+cg = clumsy guy 🤕
+wm = wolfman 👨🌚
+ma = mason👷
+vg = lowly villager👱
+wc = wild child 👶
+cr = cursed 😾
+tr = traitor🖕
+cult = cult 👤
+aw = alpha wolf⚡️
+cub = wolf cub 🐶
+x = lycan 🐺🌝
+ww = werewolf🐺
+sw = Snow Wolf🐺⛄️
+sc = sorcerer 🔮
+sk = serial killer 🔪
+ta = tanner 👺
+arr = arsonist 🔥
+dg = doppelganger 🎭
+th = thief 😈
+
+
+</value>
+</item><item code="seasons" author="Mαrψ">
+  <btntext>Task Seasons</btntext>
+  <value> 
+In order to make the competitions more attractive and fair, the scores of users and groups reset to zero every three months.
+Each season has a specific name and based on the points gathered in each season, a top group and 3 top players are chosen and will be saved in Task. You can see the list and information of completed seasons of Task by /seasons  command. Also, the points of top 3 players and the top group, the number of total games played in all the groups that use Task and date and time that the season ended are mentioned too.
+
+
+</value>
+</item><item code="simple_wlc_message" author="Mαrψ">
+  <btntext>Simple Welcome Message</btntext>
+  <value> 
+*_ Activation:*
+
+First, activate the default welcome message by sending /tswelcome command in the group. Then by sending */tswelcome on*, you can activate the welcome message for your group and by sending */tswelcome off*
+you can disable it.
+You can also delete old welcome messages by sending */tswelcome delon* command and you can also keep them by */tswelcome deloff*. 
+
+*_ Setting a message:*
+To set a personalized welcome message, reply the /tswelcome command
+on the desired message.
+Note that if the text of the message is *no* , it will change back to the default text.
+
+*_ Message design:*
+The format of your welcome message can be like this: 
+
+Hello, dear friend {name}, welcome to the {grouptitle} group.
+User ID: {id}
+Number of games played: {gameplayed}
+
+The parameters of the bot are as follows:
+Username: {name}
+Clickable username: {namelink}
+Group Name: {grouptitle}
+Completed games: {gameplayed}
+Number of wins: {won}
+Winning percentage: {wonper}
+Number of losses: {lost}
+Percentage of losses: {lostper}
+User language code: {langcode}
+User ID: {id}
+Username: {usrname}
+
+All items can be deleted or changed.
+In the welcome message, you can use curved bold texts, hyperlinks, etc. directly or by using html tags.
+
+If you need more help, visit the bot support group.
+ @TsWw_Support
+
+</value>
+</item><item code="states" author="A̤̮ʀαՏH">
     <btntext>States</btntext>
     <value> Here is a list of commands of task system that you can check different states with:
 
-      ` /mystate :` Shows your personal state on TsWwPlus bot including your group, your point and
-      your ranks.
+` /mystate :` Shows your personal state on TsWwPlus bot including your group, your point and your ranks. 
 
-      ` /mygroup :` Shows the group that the command is sent in.
+` /mygroup :` Shows the group that the command is sent in. 
 
-      ` /botstate :` Shows you the robot static state.
+` /botstate :` Shows you the robot static state.
 
-      ` /wwstats :` Shows your state on original werewolf bot.
+` /wwstats :` Shows your state on original werewolf bot.
 
-      ` /wwkills :` Shows the players you killed most on original werewolf bot.
+` /wwkills :` Shows the players you killed most on original werewolf bot. 
 
-      ` /wwkillby :` Shows the players who killed you most on original werewolf bot.
+` /wwkillby :` Shows the players who killed you most on original werewolf bot. 
 
-      ` /wwdeaths :` Shows top 5 ways you have died most on original werewolf bot.
+` /wwdeaths :` Shows top 5 ways you have died most on original werewolf bot. 
 
-      ` /wwachs :` Shows a list of achievements you have gained and also a list of those you have
-      not yet fulfilled.
+` /wwachs :` Shows a list of achievements you have gained and also a list of those you have not yet fulfilled. 
 
-      ` /tsacheck :` check your restrictions state on tsa, the robot guardian System.
+` /tsacheck :` check your restrictions state on tsa, the robot guardian System.
 
-    </value>
-  </item>
-  <item code="time_limitation_1" author="Mαrψ">
-    <btntext>Time Limitation</btntext>
-    <value>
-      A time limitation for playing has been added to Task to make the competition. The total net
-      time of each player's games that are confirmed must be less than 10 hours a day. After this
-      time, no points will be added to the player (and to his/her group)!
+ </value>
+</item><item code="time_limitation_1" author="Mαrψ">
+  <btntext>Time Limitation</btntext>
+  <value> 
+A time limitation for playing has been added to Task to make the competition. The total net time of each player's games that are confirmed must be less than 10 hours a day. After this time, no points will be added to the player (and to his/her group)!
 
-      _ Note that total game time will be calculated, not the time you were killed/died in the game!
-      _ Playing in any group, whether registered in the group or not, will reduce your time.
+_ Note that total game time will be calculated, not the time you were killed/died in the game!
 
-      In the confirm message at the end of the game, the players whose time is over are shown with
-      the 💤 emoji and the other players who have not reached the limitation are shown with the ⏳
-      emoji.
+_ Playing in any group, whether registered in the group or not, will reduce your time.
 
-      _ Note that in any case, the players' points will be displayed in the confirm message, but
-      will not be applied for players with 💤.
+In the  confirm message at the end of the game, the players whose time is over are shown with the 💤 emoji and the other players who have not reached the limitation are shown with the ⏳ emoji.
+
+_ Note that in any case, the players' points will be displayed in the confirm message, but will not be applied for players with 💤.
 
 
-    </value>
-  </item>
-  <item code="time_limitation_2" author="Mαrψ">
-    <btntext>Time Limitation Commands</btntext>
-    <value>
-      Here are a list of commands that players can use about time limitation:
+</value>
+</item><item code="time_limitation_2" author="Mαrψ">
+  <btntext>Time Limitation Commands</btntext>
+  <value> 
+Here are a list of commands that players can use about time limitation:
 
-      *_ /stack :*
-      By using this command, you can see your time details in a day.
+*_ /stack :*
+By using this command, you can see your time details in a day.
 
-      *_ /push time :*
-      By using this command, you can save the time of your game in one day and use it later. (The
-      maximum time for time saving is 12 hours.)
+*_ /push time :*
+By using this command, you can save the time of your game in one day and use it later. (The maximum time for time saving is 12 hours.)
 
-      *_ /pop time :*
-      By using this command, you can use the capacity of the storage box and increase the time for
-      playing in a day.
+*_ /pop time :*
+By using this command, you can use the capacity of the storage box and increase the time for playing in a day.
 
-      The two above commands allow you to save your time and use it later when you can't (or don't
-      want to) play.
+The two above  commands allow you to save your time and use it later when you can't (or don't want to) play.
 
-      - Example
-      /push 3:00
-      This command adds three hours to your saved time and subtracts from your daily time limitation
-      for playing today. (Also, the remaining time from the previous day will be automatically added
-      to the saved time).
+- Example
+/push 3:00
+This command adds three hours to your saved time and subtracts from your daily time limitation for playing today. (Also, the remaining time from the previous day will be automatically added to the saved time).
 
-      /pop 00:30:30
-      This command adds thirty minutes and thirty seconds to your game time limit for the current
-      day and subtracts from your storage box.
+/pop 00:30:30
+This command adds thirty minutes and thirty seconds to your game time limit for the current day and subtracts from your storage box.
 
 
-    </value>
-  </item>
-  <item code="tslink_1" author="Mαrψ">
-    <btntext>Set Tslink</btntext>
-    <value>
-      *Setting a public link:*
+</value>
+</item><item code="tslink_1" author="Mαrψ">
+  <btntext>Set Tslink</btntext>
+  <value> 
+*Setting a public link:*
 
-      To register your group link as public, just send the `/settslink` command.
+To register your group link as public, just send the `/settslink` command.
 
-      ⚠️ Note that in order to set and confirm the link, Task must have access to invite members.
-      *Getting the group's link:*
+⚠️ Note that in order to set and confirm the link, Task must have access to invite members.
 
-      To get the link of your group, send the command `/mygroup` in your group.
+*Getting the group's link:*
 
-      *Setting Private link:*
+To get the link of your group, send the command `/mygroup` in your group.
 
-      To set the group link as private, send the following command:
-      `/settslink` nolink
+*Setting Private link:* 
 
-      If your group link is set as public, it will be used in all lists related to groups in Task
-      bot.
+To set the group link as private, send the following command:
+`/settslink` nolink
 
-      ⚠️ Note that bot admins always have access to the group link (if needed) even if the link is
-      private!
-      If you have not registered your group link, you cannot confirm your games.
+If your group link is set as public, it will be used in all lists related to groups in Task bot. 
 
-    </value>
-  </item>
-  <item code="tslink_2" author="Mαrψ">
-    <btntext>Tslink Settings</btntext>
-    <value>
+⚠️ Note that bot admins always have access to the group link (if needed) even if the link is private!
+If you have not registered your group link, you cannot confirm your games.
 
-      In order to change the settings of the group link, the creator can use a command which is
-      described below.
+</value>
+</item><item code="tslink_2" author="Mαrψ">
+  <btntext>Tslink Settings</btntext>
+  <value> 
 
-      * /linkoptions : *
-      This command can only be used by the creator of the group.
-      After you set your group link in the Task bot, by using the /linkoptions command you access to
-      two modes:
+In order to change the settings of the group link, the creator can use a command which is described below. 
 
-      The first mode is to make the link *private*. If you chose the link to be private, the link of
-      your group will not be shown neither in the lists nor by using /mygroup command.
-      To activate this mode, just change the button ❌ to ✅.
+* /linkoptions : *
+This command can only be used by the creator of the group. 
+After you set your group link in the Task bot, by using the /linkoptions command you access to two modes: 
 
-      In the second mode, you can change your group link to *Join Reques* .
-      That means, if someone wants to join your group through the Task link, he/she should send a
-      join request and this request can only be approved by the group admins so that he/she can join
-      the group.
-      To activate this mode, just change the button ❌ to ✅.
+The first mode is to make the link *private*. If you chose the link to be private, the link of your group will not be shown neither in the lists nor by using /mygroup  command. 
+To activate this mode, just    change the button ❌ to ✅.
 
-      If your group is in private mode, you can only remove the group from this mode, but if your
-      group is not private, you can change the group to *private* mode or a *request to join* mode.
+In the second mode, you can change your group link to *Join Reques* .
+That means, if someone wants to join your group through the Task link, he/she should send a join request and this request can only be approved by the group admins so that he/she can join the group.
+To activate this mode, just    change the button ❌ to ✅.
 
-    </value>
-  </item>
-  <item code="web_service" author="Mαrψ">
-    <btntext>Web Service</btntext>
-    <value>
-      Web service is a part that has many information and endpoints.
+If your group is in private mode, you can only remove the group from this mode, but if your group is not private, you can change the group to *private* mode or a *request to join* mode.
 
-      ⚙️ topGroups
-      With this endpoint, the ranking of the groups based on the Task points can be seen.
+</value>
+</item><item code="web_service" author="Mαrψ">
+  <btntext>Web Service</btntext>
+  <value> 
+Web service is a part that has many information and endpoints.
 
-      ⚙️ usersCount
-      This endpoint shows the number of registered users.
+⚙️ topGroups
+With this endpoint, the ranking of the groups based on the Task points can be seen.
 
-      ⚙️ getUsers
-      It shows the information of the registered users of your group in order of Task points.
+⚙️ usersCount
+This endpoint shows the number of registered users.
 
-      ⚙️ getUser
-      This endpoint gives information to the user. For example, points.
+⚙️ getUsers
+It shows the information of the registered users of your group in order of Task points. 
 
-      ⚙️ isUser
-      You can find out if the person you are looking for has registered in your group or not.
+⚙️ getUser
+This endpoint gives information to the user. For example, points.
 
-      ⚠️ Pay attention that the web service only gives the information of users who are registered
-      in your group.
+⚙️ isUser
+You can find out if the person you are looking for has registered in your group or not.
 
-      To use endpoints, you must have a special token for your group. This is not required for the
-      first endpoint.
-      The token can only be requested and registered by the creator of the group.
+⚠️ Pay attention that the web service only gives the information of users who are registered in your group.
 
-      Visit @TswwAPI channel for more information.
+To use endpoints, you must have a special token for your group. This is not required for the first endpoint.
+The token can only be requested and registered by the creator of the group.
+
+Visit @TswwAPI channel for more information.
 
 
-    </value>
-  </item>
-</menu>
+</value>
+</item></menu>
