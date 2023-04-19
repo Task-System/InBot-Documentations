@@ -1,0 +1,30 @@
+<item code="TSA" author="Mαrψ">
+  <btntext>What is TSA?</btntext>
+  <value> 
+
+*What is TSA?*
+
+
+TSA stands for Task System Armor, which, as the name suggests, protects the task bot.
+
+TSA rules are what you need to know about it, so that you can use the bot without any disturbance. 
+
+*TSA Rules*
+
+1- The bot calculates the number of messages containing profanity and rude words from admins.
+
+2- Disturbance in the function and performance of the bot, by spamming commands, collusions in or out of the group , etc. 
+
+3- If the admins of the bot cannot see themselves, it doesn't matter to insult them :) 
+
+4- If you see a violation of the rules, please notify the bot admins (except the third rule).
+
+Be careful, violation of the rules can result in individual or group restriction of the bot.
+
+We will inform you if the rules are updated.
+
+*Related Commands:*
+
+With the /tsacheck command, you can check the group restrictions in the Task.
+</value>
+</item>
