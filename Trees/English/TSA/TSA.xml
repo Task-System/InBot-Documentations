@@ -1,4 +1,4 @@
-<item code="TSA" author="Mαrψ">
+<item code="tsa" author="Mαrψ">
   <btntext>What is TSA?</btntext>
   <value> 
 
@@ -26,5 +26,5 @@ We will inform you if the rules are updated.
 *Related Commands:*
 
 With the /tsacheck command, you can check the group restrictions in the Task.
-</value>
+  </value>
 </item>
