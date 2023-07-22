@@ -44,7 +44,7 @@ To add an advertisement in TSWW ads system or charge your ads expire time, you m
 
 * /tsads :* Use this command to see all available ads on TsWw that haven't expired yet.
 
-</value>
+    </value>
   </item>
   <item code="bot_activation" author="Arash">
     <btntext>Bot Activation </btntext>
@@ -54,7 +54,7 @@ After sending  the activation request wait for bot admins to come to your group 
 
 If you failed to send  the activation request by any reason, you can join the support group for our help.
 Here is our support group of task system bot in telegram: @TsWw_Support 
-</value>
+    </value>
   </item>
   <item code="cloudy_sky" author="Mαrψ">
     <btntext>Cloudy Sky</btntext>
@@ -71,7 +71,7 @@ Once a game is confirmed, you cannot confirm the previous games. So confirm the 
 Finally, we apologize for the cloudy sky that disappeared  our moon and thank you for your patience. 🌙
 
 
-</value>
+    </value>
   </item>
   <item code="confirmation" author="A̤̮ʀαՏH">
     <btntext>Confirming the Games</btntext>
@@ -89,14 +89,14 @@ Finally, we apologize for the cloudy sky that disappeared  our moon and thank yo
 
 * /Lgc : * Use this command to find the last confirmed game in the group if the messages are not cleared.
 
- </value>
+    </value>
   </item>
   <item code="confirm_info_1" author="Mαrψ">
     <btntext>Confirmation Messages</btntext>
     <value> When you confirm a game, three messages are sent in the group. The first message shows a summary of the finished game information. The second message announces the points of the players individually and in detail, and the third message contains other information about the game that is not included in the previous two messages. 
 In addition, by clicking on the button "view your statistics in the game" or by typing the command /mylatest in the robot's private chat, you can view the information about your last game, including time, role and score in the game.
 
-</value>
+    </value>
   </item>
   <item code="confirm_info_2" author="Mαrψ">
     <btntext>The First Message</btntext>
@@ -120,7 +120,7 @@ _ Adding 10% of the raw point as a survival ratio
 _ Group score, which is counted by the difference between the role weight of the winning and the losing teams 
 _ Doubling the points due to being in the winning team
 
-</value>
+    </value>
   </item>
   <item code="confirm_info_3" author="Mαrψ">
     <btntext>2nd Confirm Message</btntext>
@@ -148,7 +148,7 @@ The 💤 emoji indicates the players who have reached the 10-hour daily limitati
 The ⏳ emoji also indicates players who have not reached the daily time limitation at the end of the game.
 
 
-</value>
+    </value>
   </item>
   <item code="confirm_info_4" author="Mαrψ">
     <btntext>The Last Confirm_info Message</btntext>
@@ -162,7 +162,7 @@ _ The number of registered players of the group in the game and their percentage
 _ Game moods, including the main mood (Normal), student mood, mafia, etc.
 
 
-</value>
+    </value>
   </item>
   <item code="contact_us" author="Mαrψ">
     <btntext>How to Contact us</btntext>
@@ -185,7 +185,7 @@ Also this group is linked with the notification channel to communicate easily wi
 *_  @TsWw_Ads* : This is a group where you can book ads in TSWW where all registered players in task visit at least once a day. 
 In a separate document, how to request for an advertisement is explained completely.
 
-</value>
+    </value>
   </item>
   <item code="dailygift" author="Mαrψ">
     <btntext>Daily Gift</btntext>
@@ -200,7 +200,7 @@ If the dice shows number 6, another dice will be thrown. The second dice doesn't
 So, as a daily gift by the TSWW you can collect from 100 to 900 free points twice a day. 
 Also, you can find a direct link to bot to get the daily gift through the messages which are sent at the end of the confirmed games by Task by /confirm@TsWwPlus_Bot command.
 
-</value>
+    </value>
   </item>
   <item code="fillit" author="Mαrψ">
     <btntext>Sending an Invitation (fillit)</btntext>
@@ -214,7 +214,7 @@ Finally, at the join time of the game, reply the list of players starting with *
 
 
 
-</value>
+    </value>
   </item>
   <item code="language" author="A̤̮ʀαՏH">
     <btntext>Language</btntext>
@@ -223,7 +223,7 @@ To change the language of bot for yourself send */changelang* command in bot pri
 
 Please note that the only supported languages by TSWW bot are English and Persian. 
 
-</value>
+    </value>
   </item>
   <item code="lists_of_tsww" author="A̤̮ʀαՏH">
     <btntext>Lists of TSWW bot</btntext>
@@ -238,7 +238,7 @@ Please note that the only supported languages by TSWW bot are English and Persia
 
 * /seasons :* Use this command to check saved information about past seasons on TSWW.
 
-</value>
+    </value>
   </item>
   <item code="log_channel" author="Mαrψ">
     <btntext>Log Channel/Group</btntext>
@@ -266,7 +266,7 @@ Instead of log_channel_id, put the ID of the group. Example: /logchnl -100123456
 First, add and promote the bot in your group (access to send messages is necessary.) Forward  one message from the channel where you want the reports to be recorded. And finally, reply the following command on the sent message: /logchnl
 
 
-</value>
+    </value>
   </item>
   <item code="methods_of_death" author="Mαrψ">
     <btntext>Methods of Death</btntext>
@@ -284,7 +284,7 @@ By typing the /wwdeaths command, you will see the five methods by which you have
  * _Idle:* Died because of not voting two nights in a row or die by chemists' poison
 * _Hunter/Gunner Shot:* Killed by the hunter or gunner shot
 
-</value>
+    </value>
   </item>
   <item code="personal_point" author="A̤̮ʀαՏH">
     <btntext>Personal Point</btntext>
@@ -316,7 +316,7 @@ All 3 mentioned commands must be replied on a player. Also, you can use the comm
 To activate personal pointing in your group please process to the support group (@TsWw_Support) .
 
 
-</value>
+    </value>
   </item>
   <item code="pinging" author="A̤̮ʀαՏH">
     <btntext>Pinging Members</btntext>
@@ -333,7 +333,7 @@ To activate personal pointing in your group please process to the support group 
  
 * /pingrmv :* Use this command to avoid Task tagging a member. Only admins can use this command by replying someone, or using her/his username or number ID. 
 
- </value>
+    </value>
   </item>
   <item code="ranks_1" author="Mαrψ">
     <btntext>Rank Management</btntext>
@@ -364,7 +364,7 @@ After applying the changes, the changes are saved by pressing the セーブ  but
 If you get a new rank, send the following command to the private chat of Task to display your new rank:
 /myranks showcount 20
 
-</value>
+    </value>
   </item>
   <item code="ranks_2" author="Mαrψ">
     <btntext>All Ranks</btntext>
@@ -414,7 +414,7 @@ Send /myranks command in the bot to get the ranks which need key(s). One free ke
 ⚠️ All challenges are announced in the Task channel (@TsWw_Channel).
 
 
-</value>
+    </value>
   </item>
   <item code="ranks_3" author="Mαrψ">
     <btntext>What is rank?</btntext>
@@ -431,7 +431,7 @@ Ranks are given to users only by Task admins or automatically by the bot itself.
 You can use the /myranks command to view and edit your current ranks.
 You can also see other players' ranks by replying /myranks on them in a group with TSWW bot.
 
-</value>
+    </value>
   </item>
   <item code="registration" author="Arash">
     <btntext> Registration in Task </btntext>
@@ -447,7 +447,7 @@ Note that after changing your group you will receive a 2 day restriction for cha
 
 *- /chnlchk :*  use this command you check and receive 2000 channel free points.
 
-</value>
+    </value>
   </item>
   <item code="roles_weight" author="Mαrψ">
     <btntext>Roles' Weight in Task</btntext>
@@ -533,7 +533,7 @@ Thief 😈 : 4
 Chemist 🧑🏻‍🔬: 1
 Traitor 🖕: 1
 
-</value>
+    </value>
   </item>
   <item code="saving_roles_1" author="Mαrψ">
     <btntext>Saving Roles Part 1</btntext>
@@ -557,7 +557,7 @@ During the game, you can use the /list command to get the latest list of roles.
 
 At the end of the game, you can clear the list of players and the pinned message using the /clear command.
 
-</value>
+    </value>
   </item>
   <item code="saving_roles_2" author="Mαrψ">
     <btntext>Saving Roles Part 2</btntext>
@@ -578,7 +578,7 @@ _ Use the /eq command to get a list to balance the votes based on the last list 
 _ Set a text or the name of a player for *voting*  by the  /slv command (by replying or in front of the command). This text can be received at any time using /glv command. (only by admins)
 
 
-</value>
+    </value>
   </item>
   <item code="saving_roles_3" author="Mαrψ">
     <btntext>Abbreviations of Roles</btntext>
@@ -631,7 +631,7 @@ dg = doppelganger 🎭
 th = thief 😈
 
 
-</value>
+    </value>
   </item>
   <item code="seasons" author="Mαrψ">
     <btntext>Task Seasons</btntext>
@@ -640,7 +640,7 @@ In order to make the competitions more attractive and fair, the scores of users 
 Each season has a specific name and based on the points gathered in each season, a top group and 3 top players are chosen and will be saved in Task. You can see the list and information of completed seasons of Task by /seasons  command. Also, the points of top 3 players and the top group, the number of total games played in all the groups that use Task and date and time that the season ended are mentioned too.
 
 
-</value>
+    </value>
   </item>
   <item code="simple_wlc_message" author="Mαrψ">
     <btntext>Simple Welcome Message</btntext>
@@ -682,7 +682,7 @@ In the welcome message, you can use curved bold texts, hyperlinks, etc. directly
 If you need more help, visit the bot support group.
  @TsWw_Support
 
-</value>
+    </value>
   </item>
   <item code="states" author="A̤̮ʀαՏH">
     <btntext>States</btntext>
@@ -706,7 +706,7 @@ If you need more help, visit the bot support group.
 
 ` /tsacheck :` check your restrictions state on tsa, the robot guardian System.
 
- </value>
+    </value>
   </item>
   <item code="time_limitation_1" author="Mαrψ">
     <btntext>Time Limitation</btntext>
@@ -722,7 +722,7 @@ In the  confirm message at the end of the game, the players whose time is over a
 _ Note that in any case, the players' points will be displayed in the confirm message, but will not be applied for players with 💤.
 
 
-</value>
+    </value>
   </item>
   <item code="time_limitation_2" author="Mαrψ">
     <btntext>Time Limitation Commands</btntext>
@@ -748,7 +748,37 @@ This command adds three hours to your saved time and subtracts from your daily t
 This command adds thirty minutes and thirty seconds to your game time limit for the current day and subtracts from your storage box.
 
 
-</value>
+    </value>
+  </item>
+  <item code="tsa" author="Mαrψ">
+    <btntext>What is TSA?</btntext>
+    <value> 
+
+*What is TSA?*
+
+
+TSA stands for Task System Armor, which, as the name suggests, protects the task bot.
+
+TSA rules are what you need to know about it, so that you can use the bot without any disturbance. 
+
+*TSA Rules*
+
+1- The bot calculates the number of messages containing profanity and rude words from admins.
+
+2- Disturbance in the function and performance of the bot, by spamming commands, collusions in or out of the group , etc. 
+
+3- If the admins of the bot cannot see themselves, it doesn't matter to insult them :) 
+
+4- If you see a violation of the rules, please notify the bot admins (except the third rule).
+
+Be careful, violation of the rules can result in individual or group restriction of the bot.
+
+We will inform you if the rules are updated.
+
+*Related Commands:*
+
+With the /tsacheck command, you can check the group restrictions in the Task.
+    </value>
   </item>
   <item code="tslink_1" author="Mαrψ">
     <btntext>Set Tslink</btntext>
@@ -773,7 +803,7 @@ If your group link is set as public, it will be used in all lists related to gro
 ⚠️ Note that bot admins always have access to the group link (if needed) even if the link is private!
 If you have not registered your group link, you cannot confirm your games.
 
-</value>
+    </value>
   </item>
   <item code="tslink_2" author="Mαrψ">
     <btntext>Tslink Settings</btntext>
@@ -794,7 +824,7 @@ To activate this mode, just    change the button ❌ to ✅.
 
 If your group is in private mode, you can only remove the group from this mode, but if your group is not private, you can change the group to *private* mode or a *request to join* mode.
 
-</value>
+    </value>
   </item>
   <item code="web_service" author="Mαrψ">
     <btntext>Web Service</btntext>
@@ -824,6 +854,6 @@ The token can only be requested and registered by the creator of the group.
 Visit @TswwAPI channel for more information.
 
 
-</value>
+    </value>
   </item>
 </menu>
